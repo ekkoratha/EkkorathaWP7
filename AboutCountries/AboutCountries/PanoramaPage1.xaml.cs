@@ -13,6 +13,7 @@ using Microsoft.Phone.Controls;
 using System.Windows.Navigation;
 using System.Globalization;
 using System.Windows.Media.Imaging;
+using System.Net.NetworkInformation;
 namespace AboutCountries
 {
     public partial class PanoramaPage1 : PhoneApplicationPage
@@ -20,6 +21,17 @@ namespace AboutCountries
         public PanoramaPage1()
         {
             InitializeComponent();
+            bool isConnected = NetworkInterface.GetIsNetworkAvailable();
+            #if DEBUG
+                isConnected = false;
+            #endif
+
+            if (!isConnected)
+            {
+                // do stuff that talks to the interwebseses here...
+                map.Visibility = Visibility.Visible;
+                mapUserControl1.Visibility = Visibility.Collapsed;
+            }
         }
         protected override void OnNavigatedFrom(NavigationEventArgs e)
         {
@@ -54,13 +66,28 @@ namespace AboutCountries
                 ImageSource imgSource = new BitmapImage(uri);
 
                 map.Source = imgSource;
+
                 //flag
                 string flagPath = "png/" + AllCountry.Current[id].Name + ".png";
                 Uri uri_flag = new Uri(flagPath, UriKind.Relative);
                 ImageSource flagImgSource = new BitmapImage(uri_flag);
 
                 flag.Source = flagImgSource;
-                
+
+                string sLong= longStr.Replace('°', '.');
+                string sLat = latStr.Replace('°', '.');
+                int latIndex = sLat.IndexOf("'");
+                sLat=sLat.Remove(latIndex);
+                int longIndex = sLong.IndexOf("'");
+                sLong=sLong.Remove(longIndex);
+
+                double iLong = double.Parse(sLong);
+                double iLat = double.Parse(sLat);
+                mapUserControl1.Latitude = iLat;
+                mapUserControl1.Longitude = iLong;
+                mapUserControl1.display();
+
+
                 //{
                 //    int pointOnLongitude = longStr.IndexOf("°");
                 //    int pointOnLatitude = latStr.IndexOf("°");

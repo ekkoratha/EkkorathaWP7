@@ -13,7 +13,7 @@
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
     SupportedOrientations="Portrait"  Orientation="Portrait"
-    shell:SystemTray.IsVisible="False" xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI">
+    shell:SystemTray.IsVisible="False" xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI" xmlns:my1="clr-namespace:AboutCountries">
     
 
     <toolkit:TransitionService.NavigationInTransition>
@@ -96,9 +96,12 @@
             <!--Panorama item two-->
             <controls:PanoramaItem Header="Geographical ">
                 <Grid>                   
-                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,168" HorizontalAlignment="Center" VerticalAlignment="Center" Height="330" Width="422">                        
-                        <Image Name="map" Source="img\Albania.png"/>
+                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,168" HorizontalAlignment="Center" VerticalAlignment="Center" Height="330" Width="422">
+                       <Image Name="map" Source="img\Albania.png" Visibility="Collapsed"/>
                     </Grid>
+                    <my1:MapUserControl HorizontalAlignment="Left"  
+                                        x:Name="mapUserControl1" VerticalAlignment="Top" />
+                    
                     <TextBlock Height="29" Width="83"  Name="logintute1" Text="Longitude" Margin="206,366,131,94"/>
                     <TextBlock Height="29" Width="108" Name="Longitude1Txt" Text=""  Margin="301,366,11,98" FontSize="20" FontWeight="Bold" />
 
@@ -129,6 +132,7 @@
             </controls:PanoramaItem>
             
         </controls:Panorama>
+        
     </Grid>
 
     <!--Panorama-based applications should not show an ApplicationBar-->
