@@ -1,0 +1,136 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="AboutCountries.PanoramaPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False" xmlns:my="clr-namespace:Microsoft.Advertising.Mobile.UI;assembly=Microsoft.Advertising.Mobile.UI">
+    
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+    
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Resources>
+            <Style TargetType="TextBlock" x:Key="Label">
+                <Setter Property="Foreground" Value="{StaticResource PhoneForegroundBrush}"/>
+                <Setter  Property="FontSize" Value="22"/>
+                <Setter  Property="HorizontalAlignment" Value="Left"/>
+                <Setter  Property="VerticalAlignment" Value="Top"/>
+                <Setter  Property="Height" Value="30" />  
+                <Setter Property="Width" Value="109" />
+            </Style>
+            <Style TargetType="TextBlock" x:Key="textField">
+                <Setter Property="Foreground" Value="{StaticResource PhoneForegroundBrush}"/>
+                <Setter  Property="FontSize" Value="22"/>
+                <Setter  Property="HorizontalAlignment" Value="Left"/>
+                <Setter  Property="VerticalAlignment" Value="Top"/>
+                <Setter  Property="Height" Value="30" />
+                <Setter Property="Width" Value="260" />
+                <Setter Property="FontWeight" Value="Bold" />
+            </Style>
+
+        </Grid.Resources>
+
+
+
+        <controls:Panorama Title="About Countries" FontSize="16">
+
+            <!--Panorama item one-->
+            <controls:PanoramaItem FontSize="18" Header="Details" >
+                <!--ContentPanel - place additional content here-->
+                <Grid x:Name="ContentPanel" Grid.Row="1" >
+                    <!-- country name-->
+                    <TextBlock Style="{StaticResource Label}" Margin="24,30,0,0" Name="textBlockLbl" Text="Country"  />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,30,0,0"  Name="CountryTxt" Text=""/>
+                    <!--capital -->
+                    <TextBlock Style="{StaticResource Label}" Margin="22,90,0,0" Name="textBlock1" Text="Capital"  />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,90,0,0"  Name="CapitalTxt" Text=""  />
+                    <!--currency-->
+                    <TextBlock Style="{StaticResource Label}" Margin="22,150,0,0" Name="textBlock2" Text="Currency"    />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,150,0,0" Name="CurrencyTxt" Text=""  />
+                    <!--official language-->
+                    <TextBlock Style="{StaticResource Label}" Margin="22,210,0,0" Name="LangLbl" Text="Language" />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,210,0,0" Name="LangTxt" Text="" />
+                    <!--dialling code-->
+                    <TextBlock Style="{StaticResource Label}" Margin="22,270,0,0" Name="dialLbl" Text="Dial code" />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,270,0,0" Name="DialTxt" Text="" />
+                    <!--Flag-->
+                    <TextBlock Style="{StaticResource Label}" Margin="22,335,0,0" Name="FlagLbl" Text="Flag" Width="87" />
+                
+                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="135,329,235,119">                        
+                    </Image>
+                    <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3"
+                                  Height="77" 
+                                  HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl1" VerticalAlignment="Top" Width="400" />
+                </Grid>
+            </controls:PanoramaItem>
+            <!--Panorama item two-->
+            <controls:PanoramaItem Header="Geographical ">
+                <Grid>                   
+                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,168" HorizontalAlignment="Center" VerticalAlignment="Center" Height="330" Width="422">                        
+                        <Image Name="map" Source="img\Albania.png"/>
+                    </Grid>
+                    <TextBlock Height="29" Width="83"  Name="logintute1" Text="Longitude" Margin="206,366,131,94"/>
+                    <TextBlock Height="29" Width="108" Name="Longitude1Txt" Text=""  Margin="301,366,11,98" FontSize="20" FontWeight="Bold" />
+
+                    <TextBlock Height="29" Width="75" Name="latitude1" Text="Latitude" Margin="0,366,345,94"/>
+                    <TextBlock Height="29" Width="108" Name="Latitude2Txt" Text="" Margin="72,366,240,94" FontSize="20" FontWeight="Bold" />
+                    
+                    <TextBlock Height="29" Width="95" Name="textBlock6" Text="Region" Margin="0,338,315,126" />
+                    <TextBlock Height="29" Width="170" FontSize="22" FontWeight="Bold" Name="RegionTxt" Text=" " Margin="70,335,180,131" />
+                    <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3" 
+                                  Height="77" HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl2" VerticalAlignment="Top" Width="400" />
+                </Grid>
+            </controls:PanoramaItem>
+            <!--Panorama item two-->
+            <controls:PanoramaItem Header="Time">
+                <Grid>
+                    <!--<Canvas Name="myCanvas">
+                        <Image Width="468"  Source="world.png" Height="260" />                        
+                    </Canvas>-->
+                    <Canvas Height="280" HorizontalAlignment="Left" Margin="106,101,0,0" Name="canvas1" VerticalAlignment="Top" Width="290" />
+                    
+                    <TextBlock Style="{StaticResource Label}" Margin="22,40,0,0" Name="textBlock4" Text="UTC"  Width="119" />
+                    <TextBlock Style="{StaticResource textField}" Margin="141,39,0,0" Name="UTCtxt" Text=""  Width="183"  />
+
+                    <TextBlock Style="{StaticResource Label}"  Margin="22,102,0,0" Name="textBlock3" Text="Time" Width="86" />
+                    <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3" 
+                                  Height="77" HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl3" VerticalAlignment="Top" Width="400" />
+                </Grid>
+            </controls:PanoramaItem>
+            
+        </controls:Panorama>
+    </Grid>
+
+    <!--Panorama-based applications should not show an ApplicationBar-->
+
+</phone:PhoneApplicationPage>
