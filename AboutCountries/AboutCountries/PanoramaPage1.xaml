@@ -96,20 +96,20 @@
             <!--Panorama item two-->
             <controls:PanoramaItem Header="Geographical ">
                 <Grid>                   
-                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,168" HorizontalAlignment="Center" VerticalAlignment="Center" Height="330" Width="422">
+                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,150" HorizontalAlignment="Center" VerticalAlignment="Center" Height="348" Width="422">
                        <Image Name="map" Source="img\Albania.png" Visibility="Collapsed"/>
                     </Grid>
                     <my1:MapUserControl HorizontalAlignment="Left"  
-                                        x:Name="mapUserControl1" VerticalAlignment="Top" />
+                         x:Name="mapUserControl1" VerticalAlignment="Top" Height="345" />
                     
-                    <TextBlock Height="29" Width="83"  Name="logintute1" Text="Longitude" Margin="206,366,131,94"/>
-                    <TextBlock Height="29" Width="108" Name="Longitude1Txt" Text=""  Margin="301,366,11,98" FontSize="20" FontWeight="Bold" />
+                    <TextBlock Height="29" Width="83"  Name="logintute1" Text="Longitude" Margin="206,376,131,92"/>
+                    <TextBlock Height="29" Width="108" Name="Longitude1Txt" Text=""  Margin="301,374,11,94" FontSize="20" FontWeight="Bold" />
 
-                    <TextBlock Height="29" Width="75" Name="latitude1" Text="Latitude" Margin="0,366,345,94"/>
-                    <TextBlock Height="29" Width="108" Name="Latitude2Txt" Text="" Margin="72,366,240,94" FontSize="20" FontWeight="Bold" />
+                    <TextBlock Height="29" Width="75" Name="latitude1" Text="Latitude" Margin="2,376,343,92"/>
+                    <TextBlock Height="29" Width="108" Name="Latitude2Txt" Text="" Margin="72,376,240,92" FontSize="20" FontWeight="Bold" />
                     
-                    <TextBlock Height="29" Width="95" Name="textBlock6" Text="Region" Margin="0,338,315,126" />
-                    <TextBlock Height="29" Width="170" FontSize="22" FontWeight="Bold" Name="RegionTxt" Text=" " Margin="70,335,180,131" />
+                    <TextBlock Height="29" Width="95" Name="textBlock6" Text="Region" Margin="3,346,322,122" />
+                    <TextBlock Height="29" Width="170" FontSize="22" FontWeight="Bold" Name="RegionTxt" Text=" " Margin="70,344,180,124" />
                     <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3" 
                                   Height="77" HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl2" VerticalAlignment="Top" Width="400" />
                 </Grid>

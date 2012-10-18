@@ -107,7 +107,7 @@
                             <Image Width="50" Height="50" Source="{Binding Img}" VerticalAlignment="Top"/>
                             <StackPanel Grid.Column="1" VerticalAlignment="Top">                                
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBlock Text="Name:" Style="{StaticResource PhoneTextSmallStyle}"/>
+                                    <TextBlock Text="Name: " Style="{StaticResource PhoneTextSmallStyle}"/>
                                     <TextBlock Text="{Binding Name}" Style="{StaticResource PhoneTextSmallStyle}" FontFamily="{StaticResource PhoneFontFamilySemiBold}"/>
                                 </StackPanel>
                                 <StackPanel Orientation="Horizontal">
@@ -133,7 +133,7 @@
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
             <shell:ApplicationBar.MenuItems>
                 <shell:ApplicationBarMenuItem x:Name="About" Text="About" Click="MenuAboutClick"/>
-                <shell:ApplicationBarMenuItem x:Name="RateThis" Text="Rate this" Click="MenuRateThisClick"/>
+                <shell:ApplicationBarMenuItem x:Name="RateThis" Text="Review This app!" Click="MenuRateThisClick"/>
             </shell:ApplicationBar.MenuItems>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

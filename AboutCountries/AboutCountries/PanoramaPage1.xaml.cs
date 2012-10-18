@@ -81,8 +81,9 @@ namespace AboutCountries
                 int longIndex = sLong.IndexOf("'");
                 sLong=sLong.Remove(longIndex);
 
-                double iLong = double.Parse(sLong);
-                double iLat = double.Parse(sLat);
+                //if LAT contains N & Long contains W 
+                double iLong = (longStr.IndexOf("W")!=-1?-1:1) *double.Parse(sLong);
+                double iLat  = (latStr.IndexOf("N")!=-1?1:-1) * double.Parse(sLat);
                 mapUserControl1.Latitude = iLat;
                 mapUserControl1.Longitude = iLong;
                 mapUserControl1.display();

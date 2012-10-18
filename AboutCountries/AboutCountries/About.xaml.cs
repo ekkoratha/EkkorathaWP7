@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
+using Microsoft.Phone.Tasks;
 
 namespace AboutCountries
 {
@@ -23,6 +24,13 @@ namespace AboutCountries
         private void NavigateHome(object sender, System.EventArgs e)
         {
         	this.NavigationService.GoBack();
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            MarketplaceReviewTask marketplaceReviewTask = new MarketplaceReviewTask();
+
+            marketplaceReviewTask.Show();
         }
     }
 }

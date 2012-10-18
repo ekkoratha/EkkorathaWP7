@@ -7,10 +7,10 @@
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
-    d:DesignHeight="323" d:DesignWidth="417" xmlns:my="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps">
+    d:DesignHeight="345" d:DesignWidth="420" xmlns:my="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps">
     
     <Grid x:Name="LayoutRoot">
-        <my:Map Height="323" Width="417" 
+        <my:Map Height="345" Width="421" 
                 HorizontalAlignment="Left"
                 Name="map1" 
                 CredentialsProvider="Aj95GUvezU7qi6bM9fk6ZPLP4KcDWd6CBFDOK9tfv-ElCsmbngRnITGvx-ltE25f" 
