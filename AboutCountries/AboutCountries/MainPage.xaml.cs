@@ -33,7 +33,10 @@ namespace AboutCountries
         {
             Country country = buddies.SelectedItem as Country;
             if (country != null)
+            {
                 NavigationService.Navigate(new Uri("/PanoramaPage1.xaml?ID=" + country.ID, UriKind.Relative));
+                buddies.SelectedItem = null;
+            }
 
         }
 
