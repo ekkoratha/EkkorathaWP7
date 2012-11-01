@@ -11,8 +11,7 @@
     <Latitude>34°32'N</Latitude>
     <Longitude>69°08'E</Longitude>
     <DialCode>93</DialCode>
-    <Language>Dari Persian
-Pashto[1]</Language>
+    <Language>Dari Persian,Pashto</Language>
    </Country>
    <Country>
     <Name>Albania</Name>
@@ -111,7 +110,7 @@ Pashto[1]</Language>
     <Currency>Australian Dollar</Currency>
     <StartDate>10/07/2012</StartDate>
     <EndDate>04/01/2012</EndDate>
-    <UTC>+11:00</UTC>
+    <UTC>+10:00</UTC>
     <Region>Oceania</Region>
     <Latitude>35°15'S</Latitude>
     <Longitude>149°08'E</Longitude>
@@ -194,8 +193,7 @@ Pashto[1]</Language>
     <Latitude>53°52'N</Latitude>
     <Longitude>27°30'E</Longitude>
     <DialCode>375</DialCode>
-    <Language>Belarusian
-Russian[1]</Language>
+    <Language>Belarusian,Russian[1]</Language>
    </Country>
    <Country>
     <Name>Belgium</Name>
@@ -208,9 +206,7 @@ Russian[1]</Language>
     <Latitude>50°51'N</Latitude>
     <Longitude>04°21'E</Longitude>
     <DialCode>32</DialCode>
-    <Language>Dutch
-French
-German</Language>
+    <Language>Dutch, French, German</Language>
    </Country>
    <Country>
     <Name>Belize</Name>
@@ -262,9 +258,7 @@ German</Language>
     <Latitude>16°20'S</Latitude>
     <Longitude>68°10'W</Longitude>
     <DialCode>591</DialCode>
-    <Language>Spanish
-Quechua
-Aymara</Language>
+    <Language>Spanish, Quechua,Aymara</Language>
    </Country>
    <Country>
     <Name>Bosnia-Herzegovina</Name>
