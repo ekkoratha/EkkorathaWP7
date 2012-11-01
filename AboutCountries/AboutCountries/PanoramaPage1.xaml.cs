@@ -142,7 +142,6 @@ namespace AboutCountries
                     }
                 }
 
-                //DateTime t = DateTime.Now.AddHours(double.Parse(hourStr)).AddMinutes(double.Parse(minuteStr));
                 double hh = double.Parse(hourStr);
                 double mm = double.Parse(minuteStr);
                 string st_date = AllCountry.Current[id].StartDate;
@@ -154,32 +153,34 @@ namespace AboutCountries
                 {
 
                     IFormatProvider culture = new CultureInfo("en-GB");
-                    //DateTime dt_start = DateTime.ParseExact(st_date, "dd/MM/yyyy", culture);
-                    //DateTime dt_end = DateTime.ParseExact(en_date, "dd/MM/yyyy", culture);
                     DateTime dt_start = DateTime.ParseExact(st_date, "M/dd/yyyy", culture);
                     DateTime dt_end = DateTime.ParseExact(en_date, "M/dd/yyyy", culture);
                     DateTime dt_today = DateTime.Now;
-                    if (dt_start < dt_end)
+
+                    if (dt_start < dt_end) 
                     {
                         DateTime Jan01 = new DateTime(dt_start.Year,01,01);
                         DateTime Dec31 = new DateTime(dt_start.Year, 12, 31);
-                        if ( ((dt_today>=dt_start) && (dt_today<=Dec31) ) ||
-                            ((dt_today<=dt_end) && (dt_today>=Jan01)))
-                            hh +=1;
+
+                        if (((dt_today >= dt_start) && (dt_today <= Dec31)) ||
+                            ((dt_today <= dt_end) && (dt_today >= Jan01)))
+                        {
+                            if ((dt_start <= dt_today) && (dt_today<=dt_end))
+                                hh += 1;
+                        }
 
                     }
                     else
                     {
 
                         // convert StartDate and EndDate and check withe current date if it falls in then add hour
-                        if (dt_today >= dt_start && dt_today <= dt_end)
+                        if (dt_today >= dt_start || dt_today <= dt_end) //check brazil start/end date
                         {
                             hh += 1;
                         }
                     }
                 }
-                //
-
+                
                 aa.Hours = hh;
                 aa.Minutes = double.Parse(minuteStr);
                 
