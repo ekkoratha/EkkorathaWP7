@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
  <Countries>
    <Country>
     <Name>Afghanistan</Name>
@@ -131,6 +131,19 @@
     <Language>German</Language>
    </Country>
    <Country>
+    <Name>Azerbaijan</Name>
+    <Capital>Baku</Capital>
+    <Currency>Manat (AZN)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+04:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>40°25'N</Latitude>
+    <Longitude>49°50'E</Longitude>
+    <DialCode>994</DialCode>
+    <Language>Azerbaijani</Language>
+   </Country>
+   <Country>
     <Name>Bahamas</Name>
     <Capital>Nassau</Capital>
     <Currency>Bahamian Dollar</Currency>
@@ -193,7 +206,7 @@
     <Latitude>53°52'N</Latitude>
     <Longitude>27°30'E</Longitude>
     <DialCode>375</DialCode>
-    <Language>Belarusian,Russian[1]</Language>
+    <Language>Belarusian, Russian</Language>
    </Country>
    <Country>
     <Name>Belgium</Name>
@@ -258,7 +271,7 @@
     <Latitude>16°20'S</Latitude>
     <Longitude>68°10'W</Longitude>
     <DialCode>591</DialCode>
-    <Language>Spanish, Quechua,Aymara</Language>
+    <Language>Spanish, Quechua, Aymara</Language>
    </Country>
    <Country>
     <Name>Bosnia-Herzegovina</Name>
@@ -346,7 +359,7 @@
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
     <Region>Africa</Region>
-    <Latitude>03°30'S</Latitude>
+    <Latitude>03°16'S</Latitude>
     <Longitude>30°00'E</Longitude>
     <DialCode>257</DialCode>
     <Language>Kirundi</Language>
@@ -457,7 +470,7 @@
    </Country>
    <Country>
     <Name>Colombia</Name>
-    <Capital>Bogot°</Capital>
+    <Capital>Bogota</Capital>
     <Currency>Peso</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
@@ -1551,7 +1564,7 @@
    <Country>
     <Name>Nicaragua</Name>
     <Capital>Managua</Capital>
-    <Currency>C°rdoba</Currency>
+    <Currency>Córdoba</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -1663,7 +1676,7 @@
     <Latitude>25°10'S</Latitude>
     <Longitude>57°30'W</Longitude>
     <DialCode>595</DialCode>
-    <Language>Spanish,Guaran°</Language>
+    <Language>Spanish,Guarani</Language>
    </Country>
    <Country>
     <Name>Peru</Name>
@@ -1807,6 +1820,19 @@
     <Longitude>17°29'W</Longitude>
     <DialCode>221</DialCode>
     <Language>French</Language>
+   </Country>
+   <Country>
+    <Name>Serbia</Name>
+    <Capital>Belgrade</Capital>
+    <Currency>Serbian dinar</Currency>
+    <StartDate>03/25/2012</StartDate>
+    <EndDate>10/28/2012</EndDate>
+    <UTC>+01:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>44°48'N</Latitude>
+    <Longitude>20°28'E</Longitude>
+    <DialCode>381</DialCode>
+    <Language>Serbian</Language>
    </Country>
    <Country>
     <Name>Seychelles</Name>
@@ -2340,18 +2366,5 @@
     <Longitude>28°16'E</Longitude>
     <DialCode>260</DialCode>
     <Language>English</Language>
-   </Country>
-   <Country>
-    <Name>Zimbabwe</Name>
-    <Capital>Harare</Capital>
-    <Currency>Euro</Currency>
-    <StartDate></StartDate>
-    <EndDate></EndDate>
-    <UTC>+02:00</UTC>
-    <Region>Africa</Region>
-    <Latitude>17°43'S</Latitude>
-    <Longitude>31°02'E</Longitude>
-    <DialCode>263</DialCode>
-    <Language>English,Shona,Sindebele</Language>
    </Country>
  </Countries>

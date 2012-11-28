@@ -13,7 +13,7 @@ using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using Microsoft.Phone.Tasks;
 
-
+//44°31'E
 //e1922da2-b6c4-490c-8515-01f40583e9f3
 
 namespace AboutCountries
