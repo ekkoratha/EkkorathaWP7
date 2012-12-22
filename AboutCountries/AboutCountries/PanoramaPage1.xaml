@@ -79,10 +79,10 @@
                     <TextBlock Style="{StaticResource textField}" Margin="136,150,0,0" Name="CurrencyTxt" Text=""  />
                     <!--official language-->
                     <TextBlock Style="{StaticResource Label}" Margin="22,210,0,0" Name="LangLbl" Text="Language" />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,210,0,0" Name="LangTxt" Text="" />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,210,0,0" Name="LangTxt" Text="" Height="58" TextWrapping="Wrap" />
                     <!--dialling code-->
-                    <TextBlock Style="{StaticResource Label}" Margin="22,270,0,0" Name="dialLbl" Text="Dial code" />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,270,0,0" Name="DialTxt" Text="" />
+                    <TextBlock Style="{StaticResource Label}" Margin="22,280,0,0" Name="dialLbl" Text="Dial code" />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,280,0,0" Name="DialTxt" Text="" />
                     <!--Flag-->
                     <TextBlock Style="{StaticResource Label}" Margin="22,335,0,0" Name="FlagLbl" Text="Flag" Width="87" />
                 
