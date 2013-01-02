@@ -16,10 +16,15 @@
             <Canvas Name="ClockLayout" Height="188" Width="196" Margin="0,0,104,0">
             <Ellipse Visibility="Collapsed" x:Name="outerCasing"  Height="186"  Width="194" StrokeThickness="8">
                 <Ellipse.Stroke>
-                    <!--<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                        <GradientStop Color="Black" Offset="0"/>
-                        <GradientStop Color="#FF8D95A5" Offset="1"/>
-                    </LinearGradientBrush>-->
+                                <!--<LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">-->
+                    <!--<LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                    <GradientStop Color="AliceBlue" Offset="0.0"/>
+                    <GradientStop Color="Blue" Offset="0.40"/>
+                    <GradientStop Color="DarkBlue" Offset="0.80"/></LinearGradientBrush>-->
+                                    <!--<GradientStop Color="Red" Offset="0.50"/>-->
+                                    <!--<GradientStop Color="#FF8D95A5" Offset="0.90"/>-->
+                                    <!--<GradientStop Color="#FFFFFFFF" Offset="1"/>-->
+                        
                     <SolidColorBrush  Color="{StaticResource PhoneDisabledColor}"/>
                 </Ellipse.Stroke>
                 <Ellipse.Fill>

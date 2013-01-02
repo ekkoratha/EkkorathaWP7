@@ -2240,7 +2240,7 @@
    <Country>
     <Name>United Kingdom</Name>
     <Capital>London</Capital>
-    <Currency>Pound Sterling</Currency>
+    <Currency>Pound Sterling (GBP £)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+00:00</UTC>
@@ -2253,7 +2253,7 @@
    <Country>
     <Name>United States of America</Name>
     <Capital>Washington D.C.</Capital>
-    <Currency>Dollar</Currency>
+    <Currency>Dollar (USD $)</Currency>
     <StartDate>03/11/2012</StartDate>
     <EndDate>11/04/2012</EndDate>
     <UTC>-08:00</UTC>
@@ -2367,4 +2367,17 @@
     <DialCode>260</DialCode>
     <Language>English</Language>
    </Country>
- </Countries>
+   <Country>
+     <Name>Zimbabwe</Name>
+     <Capital>Harare</Capital>
+     <Currency>Euro</Currency>
+     <StartDate></StartDate>
+     <EndDate></EndDate>
+     <UTC>+02:00</UTC>
+     <Region>Africa</Region>
+     <Latitude>17Â°43'S</Latitude>
+     <Longitude>31Â°02'E</Longitude>
+     <DialCode>263</DialCode>
+     <Language>English,Shona,Sindebele</Language>
+   </Country>
+   </Countries>
