@@ -82,6 +82,7 @@ namespace AboutCountries
                     cc.Latitude = e.Element("Latitude").Value;
                     cc.Language = e.Element("Language").Value; 
                     cc.DialCode = e.Element("DialCode").Value;
+                    cc.Link = e.Element("Link").Value;
 
                     _countryLookup[i++] = cc;
                 }

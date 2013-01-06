@@ -69,28 +69,30 @@
                 <!--ContentPanel - place additional content here-->
                 <Grid x:Name="ContentPanel" Grid.Row="1" >
                     <!-- country name-->
-                    <TextBlock Style="{StaticResource Label}" Margin="24,30,0,0" Name="textBlockLbl" Text="Country"  />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,30,0,0"  Name="CountryTxt" Text=""/>
+                    <TextBlock Style="{StaticResource Label}" Margin="24,4,0,0" Name="textBlockLbl" Text="Country"  />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,4,0,0"  Name="CountryTxt" Text=""/>
                     <!--capital -->
-                    <TextBlock Style="{StaticResource Label}" Margin="22,90,0,0" Name="textBlock1" Text="Capital"  />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,90,0,0"  Name="CapitalTxt" Text=""  />
+                    <TextBlock Style="{StaticResource Label}" Margin="22,52,0,0" Name="textBlock1" Text="Capital"  />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,52,0,0"  Name="CapitalTxt" Text=""  />
                     <!--currency-->
-                    <TextBlock Style="{StaticResource Label}" Margin="22,150,0,0" Name="textBlock2" Text="Currency"    />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,150,0,0" Name="CurrencyTxt" Text=""  />
+                    <TextBlock Style="{StaticResource Label}" Margin="22,102,0,0" Name="textBlock2" Text="Currency"    />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,102,0,0" Name="CurrencyTxt" Text="" Height="54" Width="258" TextWrapping="Wrap" />
                     <!--official language-->
-                    <TextBlock Style="{StaticResource Label}" Margin="22,210,0,0" Name="LangLbl" Text="Language" />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,210,0,0" Name="LangTxt" Text="" Height="58" TextWrapping="Wrap" />
+                    <TextBlock Style="{StaticResource Label}" Margin="22,170,0,0" Name="LangLbl" Text="Official Language" Height="62" TextWrapping="Wrap" />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,170,0,0" Name="LangTxt" Text="" Height="58" TextWrapping="Wrap" TextAlignment="Left" />
                     <!--dialling code-->
-                    <TextBlock Style="{StaticResource Label}" Margin="22,280,0,0" Name="dialLbl" Text="Dial code" />
-                    <TextBlock Style="{StaticResource textField}" Margin="136,280,0,0" Name="DialTxt" Text="" />
+                    <TextBlock Style="{StaticResource Label}" Margin="22,250,0,0" Name="dialLbl" Text="Dial code" />
+                    <TextBlock Style="{StaticResource textField}" Margin="136,250,0,0" Name="DialTxt" Text="" />
                     <!--Flag-->
-                    <TextBlock Style="{StaticResource Label}" Margin="22,335,0,0" Name="FlagLbl" Text="Flag" Width="87" />
+                    <TextBlock Style="{StaticResource Label}" Margin="22,305,0,0" Name="FlagLbl" Text="Flag" Width="87" />
                 
-                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="135,329,235,119">                        
+                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="0,297,233,151" HorizontalAlignment="Right">                        
                     </Image>
+                    <HyperlinkButton Content="Link to Wiki Page" Height="30" HorizontalAlignment="Left" Margin="99,360,0,0" Name="hyperlinkButton1" VerticalAlignment="Top" Width="200" />
                     <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3"
                                   Height="77" 
-                                  HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl1" VerticalAlignment="Top" Width="400" />
+                                  HorizontalAlignment="Left" Margin="8,415,0,0" Name="adControl1" VerticalAlignment="Top" Width="400" />
+                    
                 </Grid>
             </controls:PanoramaItem>
             <!--Panorama item two-->

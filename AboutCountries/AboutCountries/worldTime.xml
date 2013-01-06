@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
  <Countries>
    <Country>
     <Name>Afghanistan</Name>
     <Capital>Kabul</Capital>
-    <Currency>Afghani</Currency>
+    <Currency>Afghani(AFN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:30</UTC>
     <Region>Asia</Region>
-    <Latitude>34°32'N</Latitude>
+    <Latitude>34°33'N</Latitude>
     <Longitude>69°08'E</Longitude>
     <DialCode>93</DialCode>
     <Language>Dari Persian,Pashto</Language>
+    <Link>http://en.wikipedia.org/wiki/Afghanistan</Link>
    </Country>
    <Country>
     <Name>Albania</Name>
     <Capital>Tirana</Capital>
-    <Currency>Lek</Currency>
+    <Currency>Lek(ALL)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -25,11 +26,12 @@
     <Longitude>19°48'E</Longitude>
     <DialCode>355</DialCode>
     <Language>Albanian</Language>
+    <Link>http://en.wikipedia.org/wiki/Albania</Link>
    </Country>
    <Country>
     <Name>Algeria</Name>
     <Capital>Algiers</Capital>
-    <Currency>Algerian Dinar</Currency>
+    <Currency>Algerian dinar(DZD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -38,11 +40,12 @@
     <Longitude>03°08'E</Longitude>
     <DialCode>213</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Algeria</Link>
    </Country>
    <Country>
     <Name>Andorra</Name>
     <Capital>Andorra-la-vella</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -51,11 +54,12 @@
     <Longitude>01°32'E</Longitude>
     <DialCode>376</DialCode>
     <Language>Catalan</Language>
+    <Link>http://en.wikipedia.org/wiki/Andorra</Link>
    </Country>
    <Country>
     <Name>Angola</Name>
     <Capital>Luanda</Capital>
-    <Currency>Kwanza</Currency>
+    <Currency>Kwanza(AOA)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -64,11 +68,12 @@
     <Longitude>13°15'E</Longitude>
     <DialCode>244</DialCode>
     <Language>Portuguese</Language>
+    <Link>http://en.wikipedia.org/wiki/Angola</Link>
    </Country>
    <Country>
     <Name>Antigua and Barbuda</Name>
     <Capital>Saint John's</Capital>
-    <Currency>East Caribbean Dollar</Currency>
+    <Currency>East Caribbean dollar(XCD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -77,11 +82,12 @@
     <Longitude>61°51'W</Longitude>
     <DialCode>1-268</DialCode>
     <Language>Antiguan Creole</Language>
+    <Link>http://en.wikipedia.org/wiki/Antigua_and_Barbuda</Link>
    </Country>
    <Country>
     <Name>Argentina</Name>
     <Capital>Buenos Aires</Capital>
-    <Currency>Peso</Currency>
+    <Currency>Peso(ARS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-03:00</UTC>
@@ -90,11 +96,12 @@
     <Longitude>58°23'W</Longitude>
     <DialCode>54</DialCode>
     <Language>Spanish </Language>
+    <Link>http://en.wikipedia.org/wiki/Argentina</Link>
    </Country>
    <Country>
     <Name>Armenia</Name>
     <Capital>Yerevan</Capital>
-    <Currency>Dram</Currency>
+    <Currency>Dram(AMD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -103,11 +110,12 @@
     <Longitude>44°31'E</Longitude>
     <DialCode>374</DialCode>
     <Language>Armenian</Language>
+    <Link>http://en.wikipedia.org/wiki/Armenia</Link>
    </Country>
    <Country>
     <Name>Australia</Name>
     <Capital>Canberra</Capital>
-    <Currency>Australian Dollar</Currency>
+    <Currency>Australian dollar(AUD)</Currency>
     <StartDate>10/07/2012</StartDate>
     <EndDate>04/01/2012</EndDate>
     <UTC>+10:00</UTC>
@@ -116,11 +124,12 @@
     <Longitude>149°08'E</Longitude>
     <DialCode>61</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Australia</Link>
    </Country>
    <Country>
     <Name>Austria</Name>
     <Capital>Vienna</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -129,11 +138,12 @@
     <Longitude>16°22'E</Longitude>
     <DialCode>43</DialCode>
     <Language>German</Language>
+    <Link>http://en.wikipedia.org/wiki/Austria</Link>
    </Country>
    <Country>
     <Name>Azerbaijan</Name>
     <Capital>Baku</Capital>
-    <Currency>Manat (AZN)</Currency>
+    <Currency>Manat(AZN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -142,11 +152,12 @@
     <Longitude>49°50'E</Longitude>
     <DialCode>994</DialCode>
     <Language>Azerbaijani</Language>
+    <Link>http://en.wikipedia.org/wiki/Azerbaijan</Link>
    </Country>
    <Country>
     <Name>Bahamas</Name>
     <Capital>Nassau</Capital>
-    <Currency>Bahamian Dollar</Currency>
+    <Currency>Bahamian dollar(BSD)</Currency>
     <StartDate>04/11/2012</StartDate>
     <EndDate>11/04/2012</EndDate>
     <UTC>-05:00</UTC>
@@ -155,11 +166,12 @@
     <Longitude>77°20'W</Longitude>
     <DialCode>1-242</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Bahamas</Link>
    </Country>
    <Country>
     <Name>Bahrain</Name>
     <Capital>Manama</Capital>
-    <Currency>Bahraini Dinar</Currency>
+    <Currency>Bahraini dinar(BHD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -168,11 +180,12 @@
     <Longitude>50°30'E</Longitude>
     <DialCode>973</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Bahrain</Link>
    </Country>
    <Country>
     <Name>Bangladesh</Name>
     <Capital>Dhaka</Capital>
-    <Currency>Taka</Currency>
+    <Currency>Taka(BDT)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+06:00</UTC>
@@ -181,11 +194,12 @@
     <Longitude>90°26'E</Longitude>
     <DialCode>880</DialCode>
     <Language>Bengali (Bangla)</Language>
+    <Link>http://en.wikipedia.org/wiki/Bangladesh</Link>
    </Country>
    <Country>
     <Name>Barbados</Name>
     <Capital>Bridgetown</Capital>
-    <Currency>Barbadian dollar</Currency>
+    <Currency>Barbadian dollar(BBD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -194,11 +208,12 @@
     <Longitude>59°30'W</Longitude>
     <DialCode>1-246</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Barbados</Link>
    </Country>
    <Country>
     <Name>Belarus</Name>
     <Capital>Minsk</Capital>
-    <Currency>Belarusian ruble</Currency>
+    <Currency>Belarusian ruble(BYR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -207,11 +222,12 @@
     <Longitude>27°30'E</Longitude>
     <DialCode>375</DialCode>
     <Language>Belarusian, Russian</Language>
+    <Link>http://en.wikipedia.org/wiki/Belarus</Link>
    </Country>
    <Country>
     <Name>Belgium</Name>
     <Capital>Brussels</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro(EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -220,11 +236,12 @@
     <Longitude>04°21'E</Longitude>
     <DialCode>32</DialCode>
     <Language>Dutch, French, German</Language>
+    <Link>http://en.wikipedia.org/wiki/Belgium</Link>
    </Country>
    <Country>
     <Name>Belize</Name>
     <Capital>Belmopan</Capital>
-    <Currency>Belize dollar</Currency>
+    <Currency>Belize dollar(BZD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -233,11 +250,12 @@
     <Longitude>88°30'W</Longitude>
     <DialCode>501</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Belize</Link>
    </Country>
    <Country>
     <Name>Benin</Name>
     <Capital>Porto Novo</Capital>
-    <Currency>West African franc </Currency>
+    <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -246,11 +264,12 @@
     <Longitude>02°42'E</Longitude>
     <DialCode>229</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Benin</Link>
    </Country>
    <Country>
     <Name>Bhutan</Name>
     <Capital>Thimpu</Capital>
-    <Currency>Ngulturm</Currency>
+    <Currency>Bhutanese ngultrum(BTN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+06:00</UTC>
@@ -259,11 +278,12 @@
     <Longitude>89°45'E</Longitude>
     <DialCode>975</DialCode>
     <Language>Dzongkha</Language>
+    <Link>http://en.wikipedia.org/wiki/Bhutan</Link>
    </Country>
    <Country>
     <Name>Bolivia</Name>
     <Capital> Sucre </Capital>
-    <Currency>Boliviano</Currency>
+    <Currency>Boliviano(BOB)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -272,11 +292,12 @@
     <Longitude>68°10'W</Longitude>
     <DialCode>591</DialCode>
     <Language>Spanish, Quechua, Aymara</Language>
+    <Link>http://en.wikipedia.org/wiki/Bolivia</Link>
    </Country>
    <Country>
     <Name>Bosnia-Herzegovina</Name>
     <Capital>Sarajevo</Capital>
-    <Currency>Konvertibilna Marka</Currency>
+    <Currency>Convertible mark(BAM)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -285,11 +306,12 @@
     <Longitude>18°26'E</Longitude>
     <DialCode>387</DialCode>
     <Language>Bosnian</Language>
+    <Link>http://en.wikipedia.org/wiki/Bosnia-Herzegovina</Link>
    </Country>
    <Country>
     <Name>Botswana</Name>
     <Capital>Gaborone</Capital>
-    <Currency>Pula</Currency>
+    <Currency>Pula(BWP)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -298,11 +320,12 @@
     <Longitude>25°57'E</Longitude>
     <DialCode>267</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Botswana</Link>
    </Country>
    <Country>
     <Name>Brazil</Name>
     <Capital>Brasilia</Capital>
-    <Currency>Real</Currency>
+    <Currency>Real(BRL)</Currency>
     <StartDate>10/21/2012</StartDate>
     <EndDate>02/26/2012</EndDate>
     <UTC>-03:00</UTC>
@@ -311,11 +334,12 @@
     <Longitude>47°55'W</Longitude>
     <DialCode>55</DialCode>
     <Language>Portuguese</Language>
+    <Link>http://en.wikipedia.org/wiki/Brazil</Link>
    </Country>
    <Country>
     <Name>Brunei</Name>
     <Capital>Bandar Seri Begawan</Capital>
-    <Currency>Brunei Dollar</Currency>
+    <Currency>Brunei dollar(BND)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -324,11 +348,12 @@
     <Longitude>115°00'E</Longitude>
     <DialCode>673</DialCode>
     <Language>Bahasa Melayu</Language>
+    <Link>http://en.wikipedia.org/wiki/Brunei</Link>
    </Country>
    <Country>
     <Name>Bulgaria</Name>
     <Capital>Sofia</Capital>
-    <Currency>Lev</Currency>
+    <Currency>Lev(BGN)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -337,11 +362,12 @@
     <Longitude>23°20'E</Longitude>
     <DialCode>359</DialCode>
     <Language>Bulgarian</Language>
+    <Link>http://en.wikipedia.org/wiki/Bulgaria</Link>
    </Country>
    <Country>
     <Name>Burkina Faso</Name>
     <Capital>Ouagadougou</Capital>
-    <Currency>West African franc</Currency>
+    <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
@@ -350,11 +376,12 @@
     <Longitude>01°30'W</Longitude>
     <DialCode>226</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Burkina_Faso</Link>
    </Country>
    <Country>
     <Name>Burundi</Name>
     <Capital>Bujumbura</Capital>
-    <Currency>Burundi Franc</Currency>
+    <Currency>Burundian franc(BIF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -363,11 +390,12 @@
     <Longitude>30°00'E</Longitude>
     <DialCode>257</DialCode>
     <Language>Kirundi</Language>
+    <Link>http://en.wikipedia.org/wiki/Burundi</Link>
    </Country>
    <Country>
     <Name>Cambodia</Name>
     <Capital>Phnom Panh</Capital>
-    <Currency>Rile</Currency>
+    <Currency>Riel(KHR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+07:00</UTC>
@@ -376,11 +404,12 @@
     <Longitude>104°55'E</Longitude>
     <DialCode>855</DialCode>
     <Language>Khmer</Language>
+    <Link>http://en.wikipedia.org/wiki/Cambodia</Link>
    </Country>
    <Country>
     <Name>Cameroon</Name>
     <Capital>Yaoundi</Capital>
-    <Currency>Central African franc</Currency>
+    <Currency>Central African CFA franc(XAF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -389,11 +418,12 @@
     <Longitude>11°35'E</Longitude>
     <DialCode>237</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Cameroon</Link>
    </Country>
    <Country>
     <Name>Canada</Name>
     <Capital>Ottawa</Capital>
-    <Currency>Canadian Dollar</Currency>
+    <Currency>Canadian dollar(CAD)</Currency>
     <StartDate>03/11/2012</StartDate>
     <EndDate>11/04/2012</EndDate>
     <UTC>-05:00</UTC>
@@ -402,11 +432,12 @@
     <Longitude>75°42'W</Longitude>
     <DialCode>1</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Canada</Link>
    </Country>
    <Country>
     <Name>Cape Verde</Name>
     <Capital>Praia</Capital>
-    <Currency>Cape Verde Escudo</Currency>
+    <Currency>Cape Verdean escudo(CVE)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-01:00</UTC>
@@ -415,11 +446,12 @@
     <Longitude>23°34'W</Longitude>
     <DialCode>238</DialCode>
     <Language>Portuguese</Language>
+    <Link>http://en.wikipedia.org/wiki/Cape_Verde</Link>
    </Country>
    <Country>
     <Name>Central African Republic</Name>
     <Capital>Bangui</Capital>
-    <Currency>Central African franc</Currency>
+    <Currency>Central African CFA franc(XAF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -428,11 +460,12 @@
     <Longitude>18°35'E</Longitude>
     <DialCode>236</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Central_African_Republic</Link>
    </Country>
    <Country>
     <Name>Chad</Name>
     <Capital>N'Djamena</Capital>
-    <Currency>Central African franc</Currency>
+    <Currency>Central African CFA franc(XAF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -441,11 +474,12 @@
     <Longitude>14°59'E</Longitude>
     <DialCode>235</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Chad</Link>
    </Country>
    <Country>
     <Name>Chile</Name>
     <Capital>Santiago</Capital>
-    <Currency>Peso</Currency>
+    <Currency>Peso(CLP)</Currency>
     <StartDate>09/02/2012</StartDate>
     <EndDate>04/29/2012</EndDate>
     <UTC>-04:00</UTC>
@@ -454,11 +488,12 @@
     <Longitude>70°40'W</Longitude>
     <DialCode>56</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Chile</Link>
    </Country>
    <Country>
     <Name>China</Name>
     <Capital>Beijing</Capital>
-    <Currency>Renminbi (yuan) </Currency>
+    <Currency>Renminbi (yuan)(CNY)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -467,11 +502,12 @@
     <Longitude>116°20'E</Longitude>
     <DialCode>86</DialCode>
     <Language>Mandarin</Language>
+    <Link>http://en.wikipedia.org/wiki/China</Link>
    </Country>
    <Country>
     <Name>Colombia</Name>
     <Capital>Bogota</Capital>
-    <Currency>Peso</Currency>
+    <Currency>Peso(COP)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-05:00</UTC>
@@ -480,11 +516,12 @@
     <Longitude>74°00'W</Longitude>
     <DialCode>57</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Colombia</Link>
    </Country>
    <Country>
     <Name>Comoros</Name>
     <Capital>Moroni</Capital>
-    <Currency>Comorian Franc</Currency>
+    <Currency>Comorian franc(KMF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -493,11 +530,12 @@
     <Longitude>43°16'E</Longitude>
     <DialCode>269</DialCode>
     <Language>Comorian</Language>
+    <Link>http://en.wikipedia.org/wiki/Comoros</Link>
    </Country>
    <Country>
     <Name>Congo</Name>
     <Capital>Kinshasa</Capital>
-    <Currency>Congolese franc </Currency>
+    <Currency>Congolese franc (CDF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -506,11 +544,12 @@
     <Longitude>15°12'E</Longitude>
     <DialCode>243</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo</Link>
    </Country>
    <Country>
     <Name>Costa Rica</Name>
     <Capital>San Jose</Capital>
-    <Currency>Costa Rican colon</Currency>
+    <Currency>Costa Rican col°n(CRC)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -519,11 +558,12 @@
     <Longitude>84°02'W</Longitude>
     <DialCode>506</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Costa_Rica</Link>
    </Country>
    <Country>
     <Name>Croatia</Name>
     <Capital>Zagreb</Capital>
-    <Currency>Kuna </Currency>
+    <Currency>Kuna(HRK)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -532,11 +572,12 @@
     <Longitude>15°58'E</Longitude>
     <DialCode>385</DialCode>
     <Language>Croatian</Language>
+    <Link>http://en.wikipedia.org/wiki/Croatia</Link>
    </Country>
    <Country>
     <Name>Cuba</Name>
     <Capital>Havana</Capital>
-    <Currency>Cuban Peso</Currency>
+    <Currency>Cuban peso(CUP)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-05:00</UTC>
@@ -545,11 +586,12 @@
     <Longitude>82°22'W</Longitude>
     <DialCode>53</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Cuba</Link>
    </Country>
    <Country>
     <Name>Cyprus</Name>
     <Capital>Nicosia</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -558,11 +600,12 @@
     <Longitude>33°25'E</Longitude>
     <DialCode>357</DialCode>
     <Language>Greek</Language>
+    <Link>http://en.wikipedia.org/wiki/Cyprus</Link>
    </Country>
    <Country>
     <Name>Czech Republic</Name>
     <Capital>Prague</Capital>
-    <Currency>Czech Koruna</Currency>
+    <Currency>Czech koruna(CZK)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -571,11 +614,12 @@
     <Longitude>14°22'E</Longitude>
     <DialCode>420</DialCode>
     <Language>Czech</Language>
+    <Link>http://en.wikipedia.org/wiki/Czech_Republic</Link>
    </Country>
    <Country>
     <Name>Denmark</Name>
     <Capital>Copenhagen</Capital>
-    <Currency>Danish Krone</Currency>
+    <Currency>Danish krone()</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC></UTC>
@@ -584,11 +628,12 @@
     <Longitude>12°34'E</Longitude>
     <DialCode>45</DialCode>
     <Language>Danish</Language>
+    <Link>http://en.wikipedia.org/wiki/Denmark</Link>
    </Country>
    <Country>
     <Name>Djibouti</Name>
     <Capital>Djibouti</Capital>
-    <Currency>Djibouti Franc</Currency>
+    <Currency>Franc(DJF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -597,11 +642,12 @@
     <Longitude>42°20'E</Longitude>
     <DialCode>253</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Djibouti</Link>
    </Country>
    <Country>
     <Name>Dominica</Name>
     <Capital>Roseau</Capital>
-    <Currency>East Caribbean dollar</Currency>
+    <Currency>East Caribbean dollar(XCD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -610,11 +656,12 @@
     <Longitude>61°24'W</Longitude>
     <DialCode>1-767</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Dominica</Link>
    </Country>
    <Country>
     <Name>Ecuador</Name>
     <Capital>Quito</Capital>
-    <Currency>Dollar (USD)</Currency>
+    <Currency>United States dollar( ()</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -623,11 +670,12 @@
     <Longitude>78°35'W</Longitude>
     <DialCode>593</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Ecuador</Link>
    </Country>
    <Country>
     <Name>Egypt</Name>
     <Capital>Cairo</Capital>
-    <Currency>Egyptian Pound</Currency>
+    <Currency>Egyptian pound(EGP)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -636,11 +684,12 @@
     <Longitude>31°14'E</Longitude>
     <DialCode>20</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Egypt</Link>
    </Country>
    <Country>
     <Name>El Salvador</Name>
     <Capital>San Salvador</Capital>
-    <Currency>Dollar (USD)</Currency>
+    <Currency>U.S. dollar( ()</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -649,11 +698,12 @@
     <Longitude>89°10'W</Longitude>
     <DialCode>503</DialCode>
     <Language>Castilian</Language>
+    <Link>http://en.wikipedia.org/wiki/El_Salvador</Link>
    </Country>
    <Country>
     <Name>Equatorial Guinea</Name>
     <Capital>Malabo</Capital>
-    <Currency>Central African franc </Currency>
+    <Currency>Central African CFA franc(XAF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -662,11 +712,12 @@
     <Longitude>08°50'E</Longitude>
     <DialCode>240</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Equatorial_Guinea</Link>
    </Country>
    <Country>
     <Name>Eritrea</Name>
     <Capital>Asmara</Capital>
-    <Currency>Nakfa</Currency>
+    <Currency>Nakfa(ERN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -675,11 +726,12 @@
     <Longitude>38°55'E</Longitude>
     <DialCode>291</DialCode>
     <Language>Tigrinya</Language>
+    <Link>http://en.wikipedia.org/wiki/Eritrea</Link>
    </Country>
    <Country>
     <Name>Estonia</Name>
     <Capital>Tallinn</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro(EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -688,11 +740,12 @@
     <Longitude>24°48'E</Longitude>
     <DialCode>372</DialCode>
     <Language>Estonian</Language>
+    <Link>http://en.wikipedia.org/wiki/Estonia</Link>
    </Country>
    <Country>
     <Name>Fiji</Name>
     <Capital>Suva</Capital>
-    <Currency>Fijian dollar</Currency>
+    <Currency>Fijian dollar(FJD)</Currency>
     <StartDate>10/21/2012</StartDate>
     <EndDate>01/22/2012</EndDate>
     <UTC>+12:00</UTC>
@@ -701,11 +754,12 @@
     <Longitude>178°30'E</Longitude>
     <DialCode>679</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Fiji</Link>
    </Country>
    <Country>
     <Name>Finland</Name>
     <Capital>Helsinki</Capital>
-    <Currency>Marakka</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -714,11 +768,12 @@
     <Longitude>25°03'E</Longitude>
     <DialCode>358</DialCode>
     <Language>Finnish</Language>
+    <Link>http://en.wikipedia.org/wiki/Finland</Link>
    </Country>
    <Country>
     <Name>France</Name>
     <Capital>Paris</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -727,11 +782,12 @@
     <Longitude>02°20'E</Longitude>
     <DialCode>33</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/France</Link>
    </Country>
    <Country>
     <Name>French Guyana</Name>
     <Capital>Cayenne</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -740,11 +796,12 @@
     <Longitude>52°18'W</Longitude>
     <DialCode>594</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/French_Guyana</Link>
    </Country>
    <Country>
     <Name>Gabon</Name>
     <Capital>Libereville</Capital>
-    <Currency>Central African franc</Currency>
+    <Currency>Central African CFA franc(XAF)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -753,11 +810,12 @@
     <Longitude>09°26'E</Longitude>
     <DialCode>241</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Gabon</Link>
    </Country>
    <Country>
     <Name>Georgia</Name>
     <Capital>Tbilisi</Capital>
-    <Currency>Lari</Currency>
+    <Currency>Lari(GEL)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -766,11 +824,12 @@
     <Longitude>44°50'E</Longitude>
     <DialCode>995</DialCode>
     <Language>Georgian</Language>
+    <Link>http://en.wikipedia.org/wiki/Georgia_(country)</Link>
    </Country>
    <Country>
     <Name>Germany</Name>
     <Capital>Berlin</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro  (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -779,11 +838,12 @@
     <Longitude>13°25'E</Longitude>
     <DialCode>49</DialCode>
     <Language>German</Language>
+    <Link>http://en.wikipedia.org/wiki/Germany</Link>
    </Country>
    <Country>
     <Name>Ghana</Name>
     <Capital>Accra</Capital>
-    <Currency>Cedi</Currency>
+    <Currency>Ghana cedi(GHS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -792,11 +852,12 @@
     <Longitude>00°06'W</Longitude>
     <DialCode>233</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Ghana</Link>
    </Country>
    <Country>
     <Name>Greece</Name>
     <Capital>Athens</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro(EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -805,11 +866,12 @@
     <Longitude>23°46'E</Longitude>
     <DialCode>30</DialCode>
     <Language>Greek</Language>
+    <Link>http://en.wikipedia.org/wiki/Greece</Link>
    </Country>
    <Country>
     <Name>Grenada</Name>
     <Capital>St. George</Capital>
-    <Currency>East Caribbean Dollar</Currency>
+    <Currency>East Caribbean dollar(XCD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -818,11 +880,12 @@
     <Longitude>61° 45'W</Longitude>
     <DialCode>1-473</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Grenada</Link>
    </Country>
    <Country>
     <Name>Guatemala</Name>
     <Capital>Guatemala City</Capital>
-    <Currency>Quetzal</Currency>
+    <Currency>Quetzal(GTQ)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -831,11 +894,12 @@
     <Longitude>90°22'W</Longitude>
     <DialCode>502</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Guatemala</Link>
    </Country>
    <Country>
     <Name>Guinea</Name>
     <Capital>Conakry</Capital>
-    <Currency>Guinean Franc</Currency>
+    <Currency>Guinean franc(GNF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -844,11 +908,12 @@
     <Longitude>13°49'W</Longitude>
     <DialCode>224</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Guinea</Link>
    </Country>
    <Country>
     <Name>Guinea-Bissau</Name>
     <Capital>Bissau</Capital>
-    <Currency>West African franc</Currency>
+    <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -857,11 +922,12 @@
     <Longitude>15°45'W</Longitude>
     <DialCode>245</DialCode>
     <Language>Portuguese</Language>
+    <Link>http://en.wikipedia.org/wiki/Guinea-Bissau</Link>
    </Country>
    <Country>
     <Name>Guyana</Name>
     <Capital>Georgetown</Capital>
-    <Currency>Guyanese dollar</Currency>
+    <Currency>Guyanese dollar(GYD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -870,11 +936,12 @@
     <Longitude>58°12'W</Longitude>
     <DialCode>592</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Guyana</Link>
    </Country>
    <Country>
     <Name>Haiti</Name>
     <Capital>Port-au-Prince</Capital>
-    <Currency>Gourde</Currency>
+    <Currency>Gourde(HTG)</Currency>
     <StartDate>03/11/2012</StartDate>
     <EndDate>11/04/2012</EndDate>
     <UTC>-05:00</UTC>
@@ -883,11 +950,12 @@
     <Longitude>72°20'W</Longitude>
     <DialCode>509</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Haiti</Link>
    </Country>
    <Country>
     <Name>Honduras</Name>
     <Capital>Tegucigalpa</Capital>
-    <Currency>Lempira</Currency>
+    <Currency>Lempira(HNL)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -896,11 +964,12 @@
     <Longitude>87°14'W</Longitude>
     <DialCode>504</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Honduras</Link>
    </Country>
    <Country>
     <Name>Hungary</Name>
     <Capital>Budapest</Capital>
-    <Currency>Forint</Currency>
+    <Currency>Forint(HUF)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -909,11 +978,12 @@
     <Longitude>19°05'E</Longitude>
     <DialCode>36</DialCode>
     <Language>Hungarian</Language>
+    <Link>http://en.wikipedia.org/wiki/Hungary</Link>
    </Country>
    <Country>
     <Name>Iceland</Name>
     <Capital>Reykavik</Capital>
-    <Currency>Icelandic  Krona</Currency>
+    <Currency>Icelandic kr°na(ISK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -922,11 +992,12 @@
     <Longitude>21°57'W</Longitude>
     <DialCode>354</DialCode>
     <Language>Icelandic </Language>
+    <Link>http://en.wikipedia.org/wiki/Iceland</Link>
    </Country>
    <Country>
     <Name>India</Name>
     <Capital>New Delhi</Capital>
-    <Currency>Indian Rupee</Currency>
+    <Currency>Indian rupee(INR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:30</UTC>
@@ -935,11 +1006,12 @@
     <Longitude>77°13'E</Longitude>
     <DialCode>91</DialCode>
     <Language>Hindi, English</Language>
+    <Link>http://en.wikipedia.org/wiki/India</Link>
    </Country>
    <Country>
     <Name>Indonesia</Name>
     <Capital>Jakarta</Capital>
-    <Currency>Rupiah</Currency>
+    <Currency>Rupiah(IDR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -948,11 +1020,12 @@
     <Longitude>106°49'E</Longitude>
     <DialCode>62</DialCode>
     <Language>Indonesian</Language>
+    <Link>http://en.wikipedia.org/wiki/Indonesia</Link>
    </Country>
    <Country>
     <Name>Iran</Name>
     <Capital>Tehran</Capital>
-    <Currency>Rial</Currency>
+    <Currency>Rial(IRR)</Currency>
     <StartDate>03/21/2012</StartDate>
     <EndDate>09/21/2012</EndDate>
     <UTC>+03:30</UTC>
@@ -961,11 +1034,12 @@
     <Longitude>51°30'E</Longitude>
     <DialCode>98</DialCode>
     <Language>Persian</Language>
+    <Link>http://en.wikipedia.org/wiki/Iran</Link>
    </Country>
    <Country>
     <Name>Iraq</Name>
     <Capital>Baghdad</Capital>
-    <Currency>Iraqi Dinar</Currency>
+    <Currency>Iraqi dinar(IQD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -974,11 +1048,12 @@
     <Longitude>44°30'E</Longitude>
     <DialCode>964</DialCode>
     <Language>Arabic, Kurdish</Language>
+    <Link>http://en.wikipedia.org/wiki/Iraq</Link>
    </Country>
    <Country>
     <Name>Ireland</Name>
     <Capital>Dublin</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>0</UTC>
@@ -987,11 +1062,12 @@
     <Longitude>06°15'W</Longitude>
     <DialCode>353</DialCode>
     <Language>Irish</Language>
+    <Link>http://en.wikipedia.org/wiki/Ireland</Link>
    </Country>
    <Country>
     <Name>Israel</Name>
     <Capital>Jerusalem</Capital>
-    <Currency>Shekel</Currency>
+    <Currency>New shekel(ILS)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>09/23/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -1000,11 +1076,12 @@
     <Longitude>35°12'E</Longitude>
     <DialCode>972</DialCode>
     <Language>Hebrew, Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Israel</Link>
    </Country>
    <Country>
     <Name>Italy</Name>
     <Capital>Rome</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1013,11 +1090,12 @@
     <Longitude>12°29'E</Longitude>
     <DialCode>39</DialCode>
     <Language>Italian</Language>
+    <Link>http://en.wikipedia.org/wiki/Italy</Link>
    </Country>
    <Country>
     <Name>Ivory Coast</Name>
     <Capital>Yamoussoukro</Capital>
-    <Currency>West African franc</Currency>
+    <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1026,11 +1104,12 @@
     <Longitude>05°17'W</Longitude>
     <DialCode>225</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Ivory_Coast</Link>
    </Country>
    <Country>
     <Name>Jamaica</Name>
     <Capital>Kingston</Capital>
-    <Currency>Jamaican Dollar</Currency>
+    <Currency>Jamaican dollar(JMD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-05:00</UTC>
@@ -1039,11 +1118,12 @@
     <Longitude>76°50'W</Longitude>
     <DialCode>1-876</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Jamaica</Link>
    </Country>
    <Country>
     <Name>Japan</Name>
     <Capital>Tokyo</Capital>
-    <Currency>Yen</Currency>
+    <Currency>Yen(JPY)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+09:00</UTC>
@@ -1052,11 +1132,12 @@
     <Longitude>139°46'E</Longitude>
     <DialCode>81</DialCode>
     <Language>Japanese</Language>
+    <Link>http://en.wikipedia.org/wiki/Japan</Link>
    </Country>
    <Country>
     <Name>Jordan</Name>
     <Capital>Amman</Capital>
-    <Currency>Jordanian dinar</Currency>
+    <Currency>Jordanian dinar(JOD)</Currency>
     <StartDate>03/30/2012</StartDate>
     <EndDate>10/26/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -1065,11 +1146,12 @@
     <Longitude>35°52'E</Longitude>
     <DialCode>962</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Jordan</Link>
    </Country>
    <Country>
     <Name>Kazakhstan</Name>
     <Capital>Astana</Capital>
-    <Currency>Tenge</Currency>
+    <Currency>Tenge(KZT)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1078,11 +1160,12 @@
     <Longitude>71°30'E</Longitude>
     <DialCode>7-6xx, +7-7xx</DialCode>
     <Language>Kazakh</Language>
+    <Link>http://en.wikipedia.org/wiki/Kazakhstan</Link>
    </Country>
    <Country>
     <Name>Kenya</Name>
     <Capital>Nairobi</Capital>
-    <Currency>Kenya Shilling</Currency>
+    <Currency>Kenyan shilling(KES)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1091,11 +1174,12 @@
     <Longitude>36°48'E</Longitude>
     <DialCode>254</DialCode>
     <Language>Swahili</Language>
+    <Link>http://en.wikipedia.org/wiki/Kenya</Link>
    </Country>
    <Country>
     <Name>Korea North</Name>
     <Capital>Pyongyang</Capital>
-    <Currency>North Korean won </Currency>
+    <Currency>North Korean won(KPW)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1104,11 +1188,12 @@
     <Longitude>127°00'E</Longitude>
     <DialCode>850</DialCode>
     <Language>Korean</Language>
+    <Link>http://en.wikipedia.org/wiki/Korea_North</Link>
    </Country>
    <Country>
     <Name>Korea  South</Name>
     <Capital>Seoul</Capital>
-    <Currency>South Korean won </Currency>
+    <Currency>South Korean won(KRW)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1117,11 +1202,12 @@
     <Longitude>126°58'E</Longitude>
     <DialCode>82</DialCode>
     <Language>Korean</Language>
+    <Link>http://en.wikipedia.org/wiki/Korea_South</Link>
    </Country>
    <Country>
     <Name>Kosovo</Name>
     <Capital>Pristina</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1130,11 +1216,12 @@
     <Longitude>21°10'E</Longitude>
     <DialCode>381</DialCode>
     <Language> Albanian</Language>
+    <Link>http://en.wikipedia.org/wiki/Kosovo</Link>
    </Country>
    <Country>
     <Name>Kuwait</Name>
     <Capital>Kuwait City</Capital>
-    <Currency>Kuwait Dinar</Currency>
+    <Currency>Kuwaiti dinar(KWD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1143,11 +1230,12 @@
     <Longitude>48°00'E</Longitude>
     <DialCode>965</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Kuwait</Link>
    </Country>
    <Country>
     <Name>Kyrgyzstan</Name>
     <Capital>Bishkek</Capital>
-    <Currency>Som</Currency>
+    <Currency>Som(KGS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+06:00</UTC>
@@ -1156,11 +1244,12 @@
     <Longitude>74°46'E</Longitude>
     <DialCode>996</DialCode>
     <Language>Kyrgyz, Russian</Language>
+    <Link>http://en.wikipedia.org/wiki/Kyrgyzstan</Link>
    </Country>
    <Country>
     <Name>Laos</Name>
     <Capital>Vientiane</Capital>
-    <Currency>Kip</Currency>
+    <Currency>Kip(LAK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+07:00</UTC>
@@ -1169,11 +1258,12 @@
     <Longitude>102°36'E</Longitude>
     <DialCode>856</DialCode>
     <Language>Lao</Language>
+    <Link>http://en.wikipedia.org/wiki/Laos</Link>
    </Country>
    <Country>
     <Name>Latvia</Name>
     <Capital>Riga</Capital>
-    <Currency>Lats</Currency>
+    <Currency>Lats(LVL)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -1182,11 +1272,12 @@
     <Longitude>24°08'E</Longitude>
     <DialCode>371</DialCode>
     <Language>Latvian</Language>
+    <Link>http://en.wikipedia.org/wiki/Latvia</Link>
    </Country>
    <Country>
     <Name>Lebanon</Name>
     <Capital>Beirut</Capital>
-    <Currency>Lebnanesse Pound</Currency>
+    <Currency>Lebanese pound(LBP)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -1195,11 +1286,12 @@
     <Longitude>35°31'E</Longitude>
     <DialCode>961</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Lebanon</Link>
    </Country>
    <Country>
     <Name>Liechtenstein</Name>
     <Capital>Vaduz</Capital>
-    <Currency>Swiss Franc</Currency>
+    <Currency>Swiss franc(CHF)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1208,11 +1300,12 @@
     <Longitude>09°31'E</Longitude>
     <DialCode>423</DialCode>
     <Language>German</Language>
+    <Link>http://en.wikipedia.org/wiki/Liechtenstein</Link>
    </Country>
    <Country>
     <Name>Lesotho</Name>
     <Capital>Maseru</Capital>
-    <Currency>Loti</Currency>
+    <Currency>Lesotho loti(LSL)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1221,11 +1314,12 @@
     <Longitude>27°30'E</Longitude>
     <DialCode>266</DialCode>
     <Language>English, Sesotho</Language>
+    <Link>http://en.wikipedia.org/wiki/Lesotho</Link>
    </Country>
    <Country>
     <Name>Liberia</Name>
     <Capital>Monorovia</Capital>
-    <Currency>Liberian Dollar</Currency>
+    <Currency>Liberian dollar( ()</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1234,11 +1328,12 @@
     <Longitude>10°47'W</Longitude>
     <DialCode>231</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Liberia</Link>
    </Country>
    <Country>
     <Name>Libya</Name>
     <Capital>Tripoli</Capital>
-    <Currency>Libyan Dinar</Currency>
+    <Currency>Dinar(LYD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1247,11 +1342,12 @@
     <Longitude>13°07'E</Longitude>
     <DialCode>218</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Libya</Link>
    </Country>
    <Country>
     <Name>Lithuania</Name>
     <Capital>Vilnius</Capital>
-    <Currency>Litas</Currency>
+    <Currency>Lithuanian litas(LTL)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -1260,11 +1356,12 @@
     <Longitude>25°19'E</Longitude>
     <DialCode>370</DialCode>
     <Language>Lithuanian</Language>
+    <Link>http://en.wikipedia.org/wiki/Lithuania</Link>
    </Country>
    <Country>
     <Name>Luxembourg</Name>
     <Capital>Luxemburg</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1273,11 +1370,12 @@
     <Longitude>06°09'E</Longitude>
     <DialCode>352</DialCode>
     <Language>Luxembourgish</Language>
+    <Link>http://en.wikipedia.org/wiki/Luxembourg</Link>
    </Country>
    <Country>
     <Name>Macedonia</Name>
     <Capital>Skopje</Capital>
-    <Currency>Denar</Currency>
+    <Currency>Macedonian denar (MKD)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1286,11 +1384,12 @@
     <Longitude>21°26'E</Longitude>
     <DialCode>389</DialCode>
     <Language>Macedonian</Language>
+    <Link>http://en.wikipedia.org/wiki/Republic_of_Macedonia</Link>
    </Country>
    <Country>
     <Name>Madagascar</Name>
     <Capital>Antananarivo</Capital>
-    <Currency>Malagasy ariary</Currency>
+    <Currency>Malagasy ariary(MGA)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1299,11 +1398,12 @@
     <Longitude>47°31'E</Longitude>
     <DialCode>261</DialCode>
     <Language>Malagasy, French</Language>
+    <Link>http://en.wikipedia.org/wiki/Madagascar</Link>
    </Country>
    <Country>
     <Name>Malawi</Name>
     <Capital>Lilongwe</Capital>
-    <Currency>Kwacha</Currency>
+    <Currency>Kwacha(MWK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1312,11 +1412,12 @@
     <Longitude>33°48'E</Longitude>
     <DialCode>265</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Malawi</Link>
    </Country>
    <Country>
     <Name>Malaysia</Name>
     <Capital>Kuala Lumpur</Capital>
-    <Currency>Malaysian Ringgit</Currency>
+    <Currency>Ringgit(MYR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -1325,11 +1426,12 @@
     <Longitude>101°41'E</Longitude>
     <DialCode>60</DialCode>
     <Language>Malaysian</Language>
+    <Link>http://en.wikipedia.org/wiki/Malaysia</Link>
    </Country>
    <Country>
     <Name>Maldives</Name>
     <Capital>Male</Capital>
-    <Currency>Rufiyaa</Currency>
+    <Currency>Maldivian rufiyaa(MVR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:00</UTC>
@@ -1338,11 +1440,12 @@
     <Longitude>73°28'E</Longitude>
     <DialCode>960</DialCode>
     <Language>Dhivehi</Language>
+    <Link>http://en.wikipedia.org/wiki/Maldives</Link>
    </Country>
    <Country>
     <Name>Mali</Name>
     <Capital>Bamako</Capital>
-    <Currency>West African franc</Currency>
+    <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1351,11 +1454,12 @@
     <Longitude>07°55'W</Longitude>
     <DialCode>223</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Mali</Link>
    </Country>
    <Country>
     <Name>Malta</Name>
     <Capital>Valletta</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1364,11 +1468,12 @@
     <Longitude>14°31'E</Longitude>
     <DialCode>356</DialCode>
     <Language>Maltese,English</Language>
+    <Link>http://en.wikipedia.org/wiki/Malta</Link>
    </Country>
    <Country>
     <Name>Mauritania</Name>
     <Capital>Nouakchott</Capital>
-    <Currency>Ouguiya</Currency>
+    <Currency>Ouguiya(MRO)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1377,11 +1482,12 @@
     <Longitude>15°58'W</Longitude>
     <DialCode>222</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Mauritania</Link>
    </Country>
    <Country>
     <Name>Mauritius</Name>
     <Capital>Port Louis</Capital>
-    <Currency>Mauritius Rupee</Currency>
+    <Currency>Mauritian rupee(MUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -1390,11 +1496,12 @@
     <Longitude>57°31'E</Longitude>
     <DialCode>230</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Mauritius</Link>
    </Country>
    <Country>
     <Name>Mexico</Name>
     <Capital>Mexico City</Capital>
-    <Currency>Peso</Currency>
+    <Currency>Peso(MXN)</Currency>
     <StartDate>04/01/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC></UTC>
@@ -1403,11 +1510,12 @@
     <Longitude>99°10'W</Longitude>
     <DialCode>52</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Mexico</Link>
    </Country>
    <Country>
     <Name>Moldova</Name>
     <Capital>Chisinau</Capital>
-    <Currency>Leu</Currency>
+    <Currency>Moldovan leu(MDL)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1417,11 +1525,12 @@
     <DialCode>373</DialCode>
     <Language>Moldovan, Gagauz, Russian, Ukrainian 
 </Language>
+    <Link>http://en.wikipedia.org/wiki/Moldova</Link>
    </Country>
    <Country>
     <Name>Monaco</Name>
     <Capital>Monaco</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1430,11 +1539,12 @@
     <Longitude>7°25'E</Longitude>
     <DialCode>377</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Monaco</Link>
    </Country>
    <Country>
     <Name>Mongolia</Name>
     <Capital>Ulan Bator</Capital>
-    <Currency>Tugrik</Currency>
+    <Currency>Tugrik(MNT)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -1443,11 +1553,12 @@
     <Longitude>106°53'E</Longitude>
     <DialCode>976</DialCode>
     <Language>Mongolian</Language>
+    <Link>http://en.wikipedia.org/wiki/Mongolia</Link>
    </Country>
    <Country>
     <Name>Montenegro</Name>
     <Capital>Podgorica</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1456,11 +1567,12 @@
     <Longitude>19°28'E</Longitude>
     <DialCode>382</DialCode>
     <Language>Montenegrin</Language>
+    <Link>http://en.wikipedia.org/wiki/Montenegro</Link>
    </Country>
    <Country>
     <Name>Morocco</Name>
     <Capital>Rabat</Capital>
-    <Currency>Dirham</Currency>
+    <Currency>Moroccan dirham(MAD)</Currency>
     <StartDate>04/29/2012</StartDate>
     <EndDate>09/30/2012</EndDate>
     <UTC>0</UTC>
@@ -1469,11 +1581,12 @@
     <Longitude>6°51'W</Longitude>
     <DialCode>212</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Morocco</Link>
    </Country>
    <Country>
     <Name>Mozambique</Name>
     <Capital>Maputo</Capital>
-    <Currency>Metical</Currency>
+    <Currency>Mozambican metical(MZN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1482,11 +1595,12 @@
     <Longitude>32°32'E</Longitude>
     <DialCode>258</DialCode>
     <Language>Portuguese</Language>
+    <Link>http://en.wikipedia.org/wiki/Mozambique</Link>
    </Country>
    <Country>
     <Name>Myanmar</Name>
     <Capital>Naypyidaw</Capital>
-    <Currency>Kyat</Currency>
+    <Currency>Kyat(MMK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+06:30</UTC>
@@ -1495,11 +1609,12 @@
     <Longitude>96°20'E</Longitude>
     <DialCode>95</DialCode>
     <Language>Burmese</Language>
+    <Link>http://en.wikipedia.org/wiki/Myanmar</Link>
    </Country>
    <Country>
     <Name>Namibia</Name>
     <Capital>Windhoek</Capital>
-    <Currency>Namibian dollar</Currency>
+    <Currency>Namibian dollar(NAD)</Currency>
     <StartDate>09/02/2012</StartDate>
     <EndDate>04/01/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1508,11 +1623,12 @@
     <Longitude>17°04'E</Longitude>
     <DialCode>264</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Namibia</Link>
    </Country>
    <Country>
     <Name>Nauru</Name>
     <Capital>Yaren</Capital>
-    <Currency>Australian dollar </Currency>
+    <Currency>Australian dollar(AUD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+12:00</UTC>
@@ -1521,11 +1637,12 @@
     <Longitude>166°56'E</Longitude>
     <DialCode>674</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Nauru</Link>
    </Country>
    <Country>
     <Name>Nepal</Name>
     <Capital>Kathamandu</Capital>
-    <Currency>Nepalese Rupee</Currency>
+    <Currency>Nepalese rupee(NPR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:45</UTC>
@@ -1534,11 +1651,12 @@
     <Longitude>85°20'E</Longitude>
     <DialCode>977</DialCode>
     <Language>Nepali</Language>
+    <Link>http://en.wikipedia.org/wiki/Nepal</Link>
    </Country>
    <Country>
     <Name>Netherlands</Name>
     <Capital>Amsterdam</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1547,11 +1665,12 @@
     <Longitude>04°54'E</Longitude>
     <DialCode>31, +5998</DialCode>
     <Language>Dutch</Language>
+    <Link>http://en.wikipedia.org/wiki/Netherlands</Link>
    </Country>
    <Country>
     <Name>New Zealand</Name>
     <Capital>Wellington</Capital>
-    <Currency>New Zealand Dollar</Currency>
+    <Currency>New Zealand dollar(NZD)</Currency>
     <StartDate>09/30/2012</StartDate>
     <EndDate>04/01/2012</EndDate>
     <UTC>+12:00</UTC>
@@ -1560,11 +1679,12 @@
     <Longitude>174°46'E</Longitude>
     <DialCode>64</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/New_Zealand</Link>
    </Country>
    <Country>
     <Name>Nicaragua</Name>
     <Capital>Managua</Capital>
-    <Currency>Córdoba</Currency>
+    <Currency>C°rdoba(NIO)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -1573,11 +1693,12 @@
     <Longitude>86°20'W</Longitude>
     <DialCode>505</DialCode>
     <Language>Spanish, English</Language>
+    <Link>http://en.wikipedia.org/wiki/Nicaragua</Link>
    </Country>
    <Country>
     <Name>Niger</Name>
     <Capital>Niamey</Capital>
-    <Currency>West African franc </Currency>
+    <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -1586,11 +1707,12 @@
     <Longitude>02°06'E</Longitude>
     <DialCode>227</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Niger</Link>
    </Country>
    <Country>
     <Name>Nigeria</Name>
     <Capital>Abuja</Capital>
-    <Currency>Naira</Currency>
+    <Currency>Naira(NGN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+01:00</UTC>
@@ -1599,11 +1721,12 @@
     <Longitude>07°32'E</Longitude>
     <DialCode>234</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Nigeria</Link>
    </Country>
    <Country>
     <Name>Norway</Name>
     <Capital>Oslo</Capital>
-    <Currency>Norwegian Krone</Currency>
+    <Currency>Norwegian krone(NOK)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1612,11 +1735,12 @@
     <Longitude>10°45'E</Longitude>
     <DialCode>47</DialCode>
     <Language>Norwegian</Language>
+    <Link>http://en.wikipedia.org/wiki/Norway</Link>
    </Country>
    <Country>
     <Name>Oman</Name>
     <Capital>Muscat</Capital>
-    <Currency>Omani Rial</Currency>
+    <Currency>Rial(OMR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -1625,11 +1749,12 @@
     <Longitude>58°36'E</Longitude>
     <DialCode>968</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Oman</Link>
    </Country>
    <Country>
     <Name>Pakistan</Name>
     <Capital>Islamabad</Capital>
-    <Currency>Pakistani Rupee</Currency>
+    <Currency>Pakistani Rupee(PKR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:00</UTC>
@@ -1638,11 +1763,12 @@
     <Longitude>73°10'E</Longitude>
     <DialCode>92</DialCode>
     <Language>Urdu,English</Language>
+    <Link>http://en.wikipedia.org/wiki/Pakistan</Link>
    </Country>
    <Country>
     <Name>Panama</Name>
     <Capital>Panama City</Capital>
-    <Currency>Balboa</Currency>
+    <Currency>Balboa()</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-05:00</UTC>
@@ -1651,11 +1777,12 @@
     <Longitude>79°25'W</Longitude>
     <DialCode>507</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Panama</Link>
    </Country>
    <Country>
     <Name>Papua New Guinea</Name>
     <Capital>Port Moresby</Capital>
-    <Currency>Kina</Currency>
+    <Currency>Papua New Guinean kina(PGK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+10:00</UTC>
@@ -1664,11 +1791,12 @@
     <Longitude>147°08'E</Longitude>
     <DialCode>675</DialCode>
     <Language>English,Tok Pisin,Hiri Motu</Language>
+    <Link>http://en.wikipedia.org/wiki/Papua_New_Guinea</Link>
    </Country>
    <Country>
     <Name>Paraguay</Name>
     <Capital>Asuncion</Capital>
-    <Currency>Guarani</Currency>
+    <Currency>Guaran°(PYG)</Currency>
     <StartDate>10/07/2012</StartDate>
     <EndDate>04/08/2012</EndDate>
     <UTC>-04:00</UTC>
@@ -1677,11 +1805,12 @@
     <Longitude>57°30'W</Longitude>
     <DialCode>595</DialCode>
     <Language>Spanish,Guarani</Language>
+    <Link>http://en.wikipedia.org/wiki/Paraguay</Link>
    </Country>
    <Country>
     <Name>Peru</Name>
     <Capital>Lima</Capital>
-    <Currency>Nuevo sol</Currency>
+    <Currency>Nuevo sol(PEN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-05:00</UTC>
@@ -1690,11 +1819,12 @@
     <Longitude>77°00'W</Longitude>
     <DialCode>51</DialCode>
     <Language>Spanish </Language>
+    <Link>http://en.wikipedia.org/wiki/Peru</Link>
    </Country>
    <Country>
     <Name>Philippines</Name>
     <Capital>Manila</Capital>
-    <Currency>Peso</Currency>
+    <Currency>Peso(PHP)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -1703,11 +1833,12 @@
     <Longitude>121°03'E</Longitude>
     <DialCode>63</DialCode>
     <Language>Filipino,English</Language>
+    <Link>http://en.wikipedia.org/wiki/Philippines</Link>
    </Country>
    <Country>
     <Name>Poland</Name>
     <Capital>Warsaw</Capital>
-    <Currency>Zloty</Currency>
+    <Currency>Zloty(PLN)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1716,11 +1847,12 @@
     <Longitude>21°00'E</Longitude>
     <DialCode>48</DialCode>
     <Language>Polish</Language>
+    <Link>http://en.wikipedia.org/wiki/Poland</Link>
    </Country>
    <Country>
     <Name>Portugal</Name>
     <Capital>Lisbon</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+00:00</UTC>
@@ -1729,11 +1861,12 @@
     <Longitude>09°10'W</Longitude>
     <DialCode>351</DialCode>
     <Language>Portuguese</Language>
+    <Link>http://en.wikipedia.org/wiki/Portugal</Link>
    </Country>
    <Country>
     <Name>Qatar</Name>
     <Capital>Doha</Capital>
-    <Currency>Qatari Riyal</Currency>
+    <Currency>Riyal(QAR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1742,11 +1875,12 @@
     <Longitude>51°35'E</Longitude>
     <DialCode>974</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Qatar</Link>
    </Country>
    <Country>
     <Name>Romania</Name>
     <Capital>Bucharest</Capital>
-    <Currency>Lei</Currency>
+    <Currency>Romanian leu(RON)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1755,11 +1889,12 @@
     <Longitude>26°10'E</Longitude>
     <DialCode>40</DialCode>
     <Language>Romanian</Language>
+    <Link>http://en.wikipedia.org/wiki/Romania</Link>
    </Country>
    <Country>
     <Name>Russia</Name>
     <Capital>Moscow</Capital>
-    <Currency>Ruble</Currency>
+    <Currency>Russian ruble(RUB)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -1768,11 +1903,12 @@
     <Longitude>37°37'E</Longitude>
     <DialCode>7</DialCode>
     <Language>Russian</Language>
+    <Link>http://en.wikipedia.org/wiki/Russia</Link>
    </Country>
    <Country>
     <Name>Rwanda</Name>
     <Capital>Kigali</Capital>
-    <Currency>Rwandan franc </Currency>
+    <Currency>Rwandan franc(RWF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1781,11 +1917,12 @@
     <Longitude>30°04'E</Longitude>
     <DialCode>250</DialCode>
     <Language>Kinyarwanda,French,English</Language>
+    <Link>http://en.wikipedia.org/wiki/Rwanda</Link>
    </Country>
    <Country>
     <Name>San Marino</Name>
     <Capital>San Marino</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1794,11 +1931,12 @@
     <Longitude>12°30'E</Longitude>
     <DialCode>378</DialCode>
     <Language>Italian</Language>
+    <Link>http://en.wikipedia.org/wiki/San_Marino</Link>
    </Country>
    <Country>
     <Name>Saudi Arabia</Name>
     <Capital>Riyadh</Capital>
-    <Currency>Riyal </Currency>
+    <Currency>Saudi riyal(SAR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1807,11 +1945,12 @@
     <Longitude>46°42'E</Longitude>
     <DialCode>966</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Saudi_Arabia</Link>
    </Country>
    <Country>
     <Name>Senegal</Name>
     <Capital>Dakar</Capital>
-    <Currency>Franc</Currency>
+    <Currency>CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
@@ -1820,11 +1959,12 @@
     <Longitude>17°29'W</Longitude>
     <DialCode>221</DialCode>
     <Language>French</Language>
+    <Link>http://en.wikipedia.org/wiki/Senegal</Link>
    </Country>
    <Country>
     <Name>Serbia</Name>
     <Capital>Belgrade</Capital>
-    <Currency>Serbian dinar</Currency>
+    <Currency>Serbian dinar(RSD)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1833,11 +1973,12 @@
     <Longitude>20°28'E</Longitude>
     <DialCode>381</DialCode>
     <Language>Serbian</Language>
+    <Link>http://en.wikipedia.org/wiki/Serbia</Link>
    </Country>
    <Country>
     <Name>Seychelles</Name>
     <Capital>Victoria</Capital>
-    <Currency>Rupee</Currency>
+    <Currency>Seychellois rupee(SCR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+04:00</UTC>
@@ -1846,11 +1987,12 @@
     <Longitude>13°17'W</Longitude>
     <DialCode>248</DialCode>
     <Language>French, English</Language>
+    <Link>http://en.wikipedia.org/wiki/Seychelles</Link>
    </Country>
    <Country>
     <Name>Sierra Leone</Name>
     <Capital>Freetown</Capital>
-    <Currency>Leone</Currency>
+    <Currency>Leone(SLL)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
@@ -1859,11 +2001,12 @@
     <Longitude>13°14'W</Longitude>
     <DialCode>232</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Sierra_Leone</Link>
    </Country>
    <Country>
     <Name>Singapore</Name>
     <Capital>Singapore</Capital>
-    <Currency>Singapore Dollar</Currency>
+    <Currency>Singapore dollar(SGD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -1872,11 +2015,12 @@
     <Longitude>103°50'E</Longitude>
     <DialCode>65</DialCode>
     <Language>English,Malay,Chinese</Language>
+    <Link>http://en.wikipedia.org/wiki/Singapore</Link>
    </Country>
    <Country>
     <Name>Slovakia</Name>
     <Capital>Bratislava</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1885,11 +2029,12 @@
     <Longitude>17°07'E</Longitude>
     <DialCode>421</DialCode>
     <Language>Slovak </Language>
+    <Link>http://en.wikipedia.org/wiki/Slovakia</Link>
    </Country>
    <Country>
     <Name>Slovenia</Name>
     <Capital>Ljubljana</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1898,11 +2043,12 @@
     <Longitude>14°33'E</Longitude>
     <DialCode>386</DialCode>
     <Language>Slovene</Language>
+    <Link>http://en.wikipedia.org/wiki/Slovenia</Link>
    </Country>
    <Country>
     <Name>Solomon Islands</Name>
     <Capital>Honiara</Capital>
-    <Currency>Dollar</Currency>
+    <Currency>Solomon Islands dollar(SBD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+11:00</UTC>
@@ -1911,11 +2057,12 @@
     <Longitude>159°57'E</Longitude>
     <DialCode>677</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Solomon_Islands</Link>
    </Country>
    <Country>
     <Name>Somalia</Name>
     <Capital>Mogadishu</Capital>
-    <Currency>Shilling</Currency>
+    <Currency>Somali shilling(SOS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1924,11 +2071,12 @@
     <Longitude>45°25'E</Longitude>
     <DialCode>252</DialCode>
     <Language>Somali,Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Somalia</Link>
    </Country>
    <Country>
     <Name>South Africa</Name>
     <Capital>Cape Town</Capital>
-    <Currency>South African Rand</Currency>
+    <Currency>South African rand(ZAR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -1937,11 +2085,12 @@
     <Longitude>28°12'E</Longitude>
     <DialCode>27</DialCode>
     <Language> Afrikaans, English</Language>
+    <Link>http://en.wikipedia.org/wiki/South_Africa</Link>
    </Country>
    <Country>
     <Name>Spain</Name>
     <Capital>Madrid</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1950,11 +2099,12 @@
     <Longitude>03°45'W</Longitude>
     <DialCode>34</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Spain</Link>
    </Country>
    <Country>
     <Name>Sri Lanka</Name>
     <Capital>Colombo</Capital>
-    <Currency>Sri Lanka Rupee</Currency>
+    <Currency>Sri Lankan rupee(LKR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:30</UTC>
@@ -1963,11 +2113,12 @@
     <Longitude>79°54'E</Longitude>
     <DialCode>94</DialCode>
     <Language>Sinhala, Tamil</Language>
+    <Link>http://en.wikipedia.org/wiki/Sri_Lanka</Link>
    </Country>
    <Country>
     <Name>St Kitts and Nevis</Name>
     <Capital>Basseterre</Capital>
-    <Currency>East Caribbean Dollar</Currency>
+    <Currency>East Caribbean dollar(XCD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -1976,11 +2127,12 @@
     <Longitude>62°44'W</Longitude>
     <DialCode>1-869</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/St_Kitts_and_Nevis</Link>
    </Country>
    <Country>
     <Name>Sudan</Name>
     <Capital>Khartoum</Capital>
-    <Currency>Sudanese  Pound</Currency>
+    <Currency>Sudanese pound(SDG)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -1989,11 +2141,12 @@
     <Longitude>32°35'E</Longitude>
     <DialCode>249</DialCode>
     <Language>Arabic,English</Language>
+    <Link>http://en.wikipedia.org/wiki/Sudan</Link>
    </Country>
    <Country>
     <Name>Suriname</Name>
     <Capital>Paramaribo</Capital>
-    <Currency>Surinamese dollar</Currency>
+    <Currency>Surinamese dollar(SRD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-03:00</UTC>
@@ -2002,11 +2155,12 @@
     <Longitude>55°10'W</Longitude>
     <DialCode>597</DialCode>
     <Language>Dutch</Language>
+    <Link>http://en.wikipedia.org/wiki/Suriname</Link>
    </Country>
    <Country>
     <Name>Swaziland</Name>
     <Capital>Mbabane</Capital>
-    <Currency>Lilangeni</Currency>
+    <Currency>Lilangeni(SZL)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -2015,11 +2169,12 @@
     <Longitude>31°06'E</Longitude>
     <DialCode>268</DialCode>
     <Language>English,Swati</Language>
+    <Link>http://en.wikipedia.org/wiki/Swaziland</Link>
    </Country>
    <Country>
     <Name>Sweden</Name>
     <Capital>Stockholm</Capital>
-    <Currency>Krona</Currency>
+    <Currency>Swedish krona(SEK)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2028,11 +2183,12 @@
     <Longitude>18°03'E</Longitude>
     <DialCode>46</DialCode>
     <Language>Swedish</Language>
+    <Link>http://en.wikipedia.org/wiki/Sweden</Link>
    </Country>
    <Country>
     <Name>Switzerland</Name>
     <Capital>Berne</Capital>
-    <Currency>Swiss Franc</Currency>
+    <Currency>Swiss franc(CHF)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2041,11 +2197,12 @@
     <Longitude>07°28'E</Longitude>
     <DialCode>41</DialCode>
     <Language>German, French, Italian</Language>
+    <Link>http://en.wikipedia.org/wiki/Switzerland</Link>
    </Country>
    <Country>
     <Name>Syria</Name>
     <Capital>Damascus</Capital>
-    <Currency>Syrian lira</Currency>
+    <Currency>Syrian pound(SYP)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/26/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -2054,11 +2211,12 @@
     <Longitude>36°18'E</Longitude>
     <DialCode>963</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Syria</Link>
    </Country>
    <Country>
     <Name>Taiwan</Name>
     <Capital>Taipei</Capital>
-    <Currency>New Taiwan Dollar</Currency>
+    <Currency>New Taiwan dollar(TWD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
@@ -2067,11 +2225,12 @@
     <Longitude>68°48'E</Longitude>
     <DialCode>886</DialCode>
     <Language>Mandarin, Taiwanese</Language>
+    <Link>http://en.wikipedia.org/wiki/Taiwan</Link>
    </Country>
    <Country>
     <Name>Tajikistan</Name>
     <Capital>Dushambe</Capital>
-    <Currency>Somoni</Currency>
+    <Currency>Somoni(TJS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:00</UTC>
@@ -2080,11 +2239,12 @@
     <Longitude>68°48'E</Longitude>
     <DialCode>992</DialCode>
     <Language>Tajik (Persian)</Language>
+    <Link>http://en.wikipedia.org/wiki/Tajikistan</Link>
    </Country>
    <Country>
     <Name>Tanzania</Name>
     <Capital>Dodoma</Capital>
-    <Currency>Tanzanian shilling </Currency>
+    <Currency>Tanzanian shilling(TZS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -2093,11 +2253,12 @@
     <Longitude>35°45'E</Longitude>
     <DialCode>255</DialCode>
     <Language>Swahili, English</Language>
+    <Link>http://en.wikipedia.org/wiki/Tanzania</Link>
    </Country>
    <Country>
     <Name>Thailand</Name>
     <Capital>Bangkok</Capital>
-    <Currency>Baht</Currency>
+    <Currency>Baht(THB)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+07:00</UTC>
@@ -2106,11 +2267,12 @@
     <Longitude>100°35'E</Longitude>
     <DialCode>66</DialCode>
     <Language>Thai</Language>
+    <Link>http://en.wikipedia.org/wiki/Thailand</Link>
    </Country>
    <Country>
     <Name>The Gambia</Name>
     <Capital>Banjul</Capital>
-    <Currency>Dalasi</Currency>
+    <Currency>Dalasi(GMD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
@@ -2119,11 +2281,12 @@
     <Longitude>1°13'E</Longitude>
     <DialCode>220</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/The_Gambia</Link>
    </Country>
    <Country>
     <Name>Togo</Name>
     <Capital>Lome</Capital>
-    <Currency>Franc</Currency>
+    <Currency>CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
@@ -2132,11 +2295,12 @@
     <Longitude>01°20'E</Longitude>
     <DialCode>228</DialCode>
     <Language>French, German</Language>
+    <Link>http://en.wikipedia.org/wiki/Togo</Link>
    </Country>
    <Country>
     <Name>Tonga</Name>
     <Capital>Nukualofa</Capital>
-    <Currency>Panga</Currency>
+    <Currency>Panga(TOP)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+13:00</UTC>
@@ -2145,11 +2309,12 @@
     <Longitude>174°00'W</Longitude>
     <DialCode>676</DialCode>
     <Language>English, Tongan</Language>
+    <Link>http://en.wikipedia.org/wiki/Tonga</Link>
    </Country>
    <Country>
     <Name>Trinidad and Tobago</Name>
     <Capital>Port-of-Spain</Capital>
-    <Currency>Trinidad and Tobago  Dollar</Currency>
+    <Currency>Trinidad and Tobago dollar(TTD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -2158,11 +2323,12 @@
     <Longitude>10°9'E</Longitude>
     <DialCode>1-868</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Trinidad_and_Tobago</Link>
    </Country>
    <Country>
     <Name>Tunisia</Name>
     <Capital>Tunis</Capital>
-    <Currency>Dinar</Currency>
+    <Currency>Tunisian dinar(TND)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2171,11 +2337,12 @@
     <Longitude>10°11'E</Longitude>
     <DialCode>216</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Tunisia</Link>
    </Country>
    <Country>
     <Name>Turkmenistan</Name>
     <Capital>Ashgabat</Capital>
-    <Currency>Manat </Currency>
+    <Currency>Turkmen new manat(TMT)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:00</UTC>
@@ -2184,11 +2351,12 @@
     <Longitude>57°50'E</Longitude>
     <DialCode>993</DialCode>
     <Language>Turkmen</Language>
+    <Link>http://en.wikipedia.org/wiki/Turkmenistan</Link>
    </Country>
    <Country>
     <Name>Turkey</Name>
     <Capital>Ankara</Capital>
-    <Currency>Turkish Lira</Currency>
+    <Currency>Turkish lira( TRY)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -2197,11 +2365,12 @@
     <Longitude>32°54'E</Longitude>
     <DialCode>90</DialCode>
     <Language>Turkish</Language>
+    <Link>http://en.wikipedia.org/wiki/Turkey</Link>
    </Country>
    <Country>
     <Name>Uganda</Name>
     <Capital>Kampala</Capital>
-    <Currency>Shilling</Currency>
+    <Currency>Ugandan shilling(UGX)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+03:00</UTC>
@@ -2210,11 +2379,12 @@
     <Longitude>32°30'E</Longitude>
     <DialCode>256</DialCode>
     <Language>English,Swahili</Language>
+    <Link>http://en.wikipedia.org/wiki/Uganda</Link>
    </Country>
    <Country>
     <Name>Ukraine</Name>
     <Capital>Kiev</Capital>
-    <Currency>Hryvnia</Currency>
+    <Currency>Ukrainian hryvnia(UAH)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -2223,11 +2393,12 @@
     <Longitude>30°28'E</Longitude>
     <DialCode>380</DialCode>
     <Language>Ukrainian</Language>
+    <Link>http://en.wikipedia.org/wiki/Ukraine</Link>
    </Country>
    <Country>
     <Name>United Arab Emirates</Name>
     <Capital>Abu Dhabi</Capital>
-    <Currency>Dirham</Currency>
+    <Currency>UAE dirham(AED)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+04:00</UTC>
@@ -2236,11 +2407,12 @@
     <Longitude>54°22'E</Longitude>
     <DialCode>971</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/United_Arab_Emirates</Link>
    </Country>
    <Country>
     <Name>United Kingdom</Name>
     <Capital>London</Capital>
-    <Currency>Pound Sterling (GBP £)</Currency>
+    <Currency>Pound sterling £ (GBP)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+00:00</UTC>
@@ -2249,11 +2421,12 @@
     <Longitude>00°05'W</Longitude>
     <DialCode>44</DialCode>
     <Language>English,Scottish Gaelic, Irish,  Welsh</Language>
+    <Link>http://en.wikipedia.org/wiki/United_Kingdom</Link>
    </Country>
    <Country>
     <Name>United States of America</Name>
     <Capital>Washington D.C.</Capital>
-    <Currency>Dollar (USD $)</Currency>
+    <Currency>United States dollar $ (USD)</Currency>
     <StartDate>03/11/2012</StartDate>
     <EndDate>11/04/2012</EndDate>
     <UTC>-08:00</UTC>
@@ -2262,11 +2435,12 @@
     <Longitude>77°02'W</Longitude>
     <DialCode>1</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/United_States_of_America</Link>
    </Country>
    <Country>
     <Name>Uruguay</Name>
     <Capital>Montevideo</Capital>
-    <Currency>Peso</Currency>
+    <Currency>Uruguayan peso(UYU)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-03:00</UTC>
@@ -2275,11 +2449,12 @@
     <Longitude>56°11'W</Longitude>
     <DialCode>598</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Uruguay</Link>
    </Country>
    <Country>
     <Name>Uzbekistan</Name>
     <Capital>Tashkent</Capital>
-    <Currency>Som </Currency>
+    <Currency>Uzbekistan som (UZS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:00</UTC>
@@ -2288,11 +2463,12 @@
     <Longitude>69°10'E</Longitude>
     <DialCode>998</DialCode>
     <Language>Uzbek</Language>
+    <Link>http://en.wikipedia.org/wiki/Uzbekistan</Link>
    </Country>
    <Country>
     <Name>Vatican</Name>
     <Capital>Vatican City</Capital>
-    <Currency>Euro</Currency>
+    <Currency>Euro (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2301,11 +2477,12 @@
     <Longitude>12°27'E</Longitude>
     <DialCode>379</DialCode>
     <Language>Italian</Language>
+    <Link>http://en.wikipedia.org/wiki/Vatican_City</Link>
    </Country>
    <Country>
     <Name>Venezuela</Name>
     <Capital>Caracas</Capital>
-    <Currency>Bolivar</Currency>
+    <Currency>Bolivar(VEF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-4:30</UTC>
@@ -2314,11 +2491,12 @@
     <Longitude>66°55'W</Longitude>
     <DialCode>58</DialCode>
     <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Venezuela</Link>
    </Country>
    <Country>
     <Name>Vietnam</Name>
     <Capital>Hanoi</Capital>
-    <Currency>Dong</Currency>
+    <Currency>Dong (VND)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+07:00</UTC>
@@ -2327,11 +2505,12 @@
     <Longitude>105°55'E</Longitude>
     <DialCode>84</DialCode>
     <Language>Vietnamese</Language>
+    <Link>http://en.wikipedia.org/wiki/Vietnam</Link>
    </Country>
    <Country>
     <Name>Yemen</Name>
     <Capital>Sana</Capital>
-    <Currency>Rial</Currency>
+    <Currency>Yemeni rial(YER)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -2340,6 +2519,7 @@
     <Longitude> 48°00'E</Longitude>
     <DialCode>967</DialCode>
     <Language>Arabic</Language>
+    <Link>http://en.wikipedia.org/wiki/Yemen</Link>
    </Country>
    <Country>
     <Name>Yugoslavia</Name>
@@ -2353,11 +2533,12 @@
     <Longitude>20°37'E</Longitude>
     <DialCode>381</DialCode>
     <Language>Serbian</Language>
+    <Link>http://en.wikipedia.org/wiki/Yugoslavia</Link>
    </Country>
    <Country>
     <Name>Zambia</Name>
     <Capital>Lusaka</Capital>
-    <Currency>Kwatcha</Currency>
+    <Currency>Zambian kwacha(ZMK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
@@ -2366,18 +2547,20 @@
     <Longitude>28°16'E</Longitude>
     <DialCode>260</DialCode>
     <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Zambia</Link>
    </Country>
    <Country>
-     <Name>Zimbabwe</Name>
-     <Capital>Harare</Capital>
-     <Currency>Euro</Currency>
-     <StartDate></StartDate>
-     <EndDate></EndDate>
-     <UTC>+02:00</UTC>
-     <Region>Africa</Region>
-     <Latitude>17Â°43'S</Latitude>
-     <Longitude>31Â°02'E</Longitude>
-     <DialCode>263</DialCode>
-     <Language>English,Shona,Sindebele</Language>
+    <Name>Zimbabwe</Name>
+    <Capital>Harare</Capital>
+    <Currency>Dollar $ (USD), Euro € (EUR)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+02:00</UTC>
+    <Region>Africa</Region>
+    <Latitude>17°43'S</Latitude>
+    <Longitude>31°02'E</Longitude>
+    <DialCode>263</DialCode>
+    <Language>English,Shona,Sindebele</Language>
+    <Link>http://en.wikipedia.org/wiki/Zimbabwe</Link>
    </Country>
-   </Countries>
+ </Countries>

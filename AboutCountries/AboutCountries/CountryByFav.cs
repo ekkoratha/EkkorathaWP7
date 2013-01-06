@@ -12,29 +12,31 @@ using System.Collections.Generic;
 
 namespace AboutCountries
 {
-    public class CountryByRegion: List<CountryInGroup>
+    public class CountryByFav: List<CountryInGroup>
     {
-        private static readonly string[] Groups = { "Africa", "Asia", "Europe", "Oceania", "North America", "South America" };
+        private static readonly string[] FavGroups = { "India", "UK", "USA"};
+
+        private static readonly string Groups = "#abcdefghijklmnopqrstuvwxyz";
 
         private Dictionary<int, Country> _personLookup = new Dictionary<int, Country>();
 
-        public CountryByRegion()
+        public CountryByFav()
         {
             List<Country> people = new List<Country>(AllCountry.Current);
-            people.Sort(Country.CompareByRegion);
+            people.Sort(Country.CompareByFirstName);
 
             Dictionary<string, CountryInGroup> groups = new Dictionary<string, CountryInGroup>();
 
-            foreach (string regionName in Groups)
+            foreach (char c in Groups)
             {
-                CountryInGroup group = new CountryInGroup(regionName);
+                CountryInGroup group = new CountryInGroup(c.ToString());
                 this.Add(group);
-                groups[regionName] = group;
+                groups[c.ToString()] = group;
             }
 
             foreach (Country person in people)
             {
-                groups[Country.GetRegionKey(person)].Add(person);
+                groups[Country.GetFirstNameKey(person)].Add(person);
             }
         }
 

@@ -29,5 +29,10 @@ namespace AboutCountries
         {
             this.NavigationService.Navigate(new Uri("/DisplayRegions.xaml", UriKind.Relative));
         }
+
+        private void btnFav_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new Uri("/DisplayFav.xaml", UriKind.Relative));
+        }
     }
 }

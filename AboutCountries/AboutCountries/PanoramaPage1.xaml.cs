@@ -56,7 +56,9 @@ namespace AboutCountries
                 string latStr = AllCountry.Current[id].Latitude;
                 DialTxt.Text = AllCountry.Current[id].DialCode;
                 LangTxt.Text = AllCountry.Current[id].Language;
-   
+
+                hyperlinkButton1.NavigateUri =new Uri(AllCountry.Current[id].Link);
+                hyperlinkButton1.TargetName = "_blank";
 
                 Longitude1Txt.Text = longStr;
                 Latitude2Txt.Text = latStr;

@@ -28,6 +28,7 @@ namespace AboutCountries
         public string Longitude { get; set; }
         public string Latitude { get; set; }
         public string Language { get; set; }
+        public string Link { get; set; }
         public string DialCode
         {
             get{return dCode;

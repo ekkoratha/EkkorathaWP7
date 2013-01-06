@@ -28,11 +28,13 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Button Content="Alphabetical" Height="75" HorizontalAlignment="Left" Margin="59,177,0,0" Name="btnAlphabetic" VerticalAlignment="Top" Width="323" Click="btnAlphabetic_Click" />
-            <Button Content="Region" HorizontalAlignment="Left" Margin="59,0,0,280" Name="btnRegion" Width="318" Height="71" VerticalAlignment="Bottom" Click="btnRegion_Click" />
-            <TextBlock Height="32" Margin="68,94,40,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Text="You can search About Countries in two ways"></TextBlock>
-            <TextBlock HorizontalAlignment="Left" Height="38" Margin="189,267,0,0" TextWrapping="Wrap" Text="or by " VerticalAlignment="Top" Width="50" FontSize="16"/>
-            <TextBlock FontSize="16" Height="58" Margin="79,436,110,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text=" Please click on " /><Run Text="one " /><Run Text="of the selection" /></TextBlock>
+            <Button Content="Alphabetical" Height="75" HorizontalAlignment="Left" Margin="59,179,0,0" Name="btnAlphabetic" VerticalAlignment="Top" Width="323" Click="btnAlphabetic_Click" />
+            <Button Content="Region" HorizontalAlignment="Left" Margin="59,0,0,248" Name="btnRegion" Width="318" Height="71" VerticalAlignment="Bottom" Click="btnRegion_Click" />
+            <Button Content="Favorites" HorizontalAlignment="Left" Margin="59,0,0,162" Name="btnFav" Width="318" Height="71" VerticalAlignment="Bottom" Click="btnFav_Click" Visibility="Collapsed" />
+            <TextBlock Height="77" Margin="28,86,18,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Text="You can search About Countries in two ways"></TextBlock>
+            <TextBlock HorizontalAlignment="Left" Height="38" Margin="189,283,0,0" TextWrapping="Wrap" Text="or by " VerticalAlignment="Top" Width="50" FontSize="16"/>
+            <TextBlock HorizontalAlignment="Left" Height="38" Margin="189,393,0,0" TextWrapping="Wrap" Text="or by " VerticalAlignment="Top" Width="50" FontSize="16" Visibility="Collapsed" />
+            <TextBlock FontSize="16" Height="58" Margin="83,500,106,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text=" Please click on " /><Run Text="one " /><Run Text="of the selection" /></TextBlock>
         </Grid>
     </Grid>
  

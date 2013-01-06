@@ -27,14 +27,14 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="28,253,0,0" Name="textBlock1" Text="Version" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="32,285,0,0" Name="textBlock2" Text="2.5.2" VerticalAlignment="Top" Foreground="#FF6FB6F2" />
+            <TextBlock HorizontalAlignment="Left" Margin="28,266,0,326" Name="textBlock1" Text="Version" FontWeight="Bold" FontSize="22" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="32,298,0,0" Name="textBlock2" Text="2.6.0" VerticalAlignment="Top" Foreground="#FF6FB6F2" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="28,44,0,0" Name="textBlock3" Text="Description" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" />
-            <TextBlock HorizontalAlignment="Left" Margin="28,78,0,399" Name="textBlock4" Text="With around 190 countries in the world its useful to have an application which can show the some vital details of each country. This Application shows details about country flags, capitals, currency, time and location" Width="422" TextWrapping="Wrap" />
+            <TextBlock HorizontalAlignment="Left" Margin="28,78,0,375" Name="textBlock4" Text="With around 190 countries in the world its useful to have an application which can show the some vital details of each country. This Application shows details about country flags, capitals, currency, official language, calling code, time and location" Width="422" TextWrapping="Wrap" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="28,354,0,0" Name="textBlock5" Text="Support/Feedback" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="34,386,0,0" Name="textBlock6" Text="mail ekkorathaprasanth@hotmail.com" VerticalAlignment="Top" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="34,420,0,0" Name="textBlock7" Text="twitter @e_prasanth" VerticalAlignment="Top" />
-            <Button Content="Review this app!" Height="72" HorizontalAlignment="Left" Margin="79,489,0,0" Name="button1" VerticalAlignment="Top" Width="252" Click="button1_Click" />
+            <Button Content="Rate this app!" Height="72" HorizontalAlignment="Left" Margin="79,489,0,0" Name="button1" VerticalAlignment="Top" Width="252" Click="button1_Click" />
         </Grid>
     </Grid>
  

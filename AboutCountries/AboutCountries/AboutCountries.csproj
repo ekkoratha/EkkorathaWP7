@@ -81,9 +81,11 @@
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="Country.cs" />
+    <Compile Include="CountryByFav.cs" />
     <Compile Include="CountryByFirstName.cs" />
     <Compile Include="CountryByRegion.cs" />
     <Compile Include="CountryInGroup.cs" />
+    <Compile Include="DisplayFav.cs" />
     <Compile Include="DisplayRegions.cs" />
     <Compile Include="GroupToBrushValueConverter.cs" />
     <Compile Include="MainPage.xaml.cs">
@@ -110,6 +112,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="AClock.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DisplayFav.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
