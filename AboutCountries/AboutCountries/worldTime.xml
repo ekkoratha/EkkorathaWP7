@@ -45,7 +45,7 @@
    <Country>
     <Name>Andorra</Name>
     <Capital>Andorra-la-vella</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -129,7 +129,7 @@
    <Country>
     <Name>Austria</Name>
     <Capital>Vienna</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -591,7 +591,7 @@
    <Country>
     <Name>Cyprus</Name>
     <Capital>Nicosia</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -759,7 +759,7 @@
    <Country>
     <Name>Finland</Name>
     <Capital>Helsinki</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+02:00</UTC>
@@ -773,7 +773,7 @@
    <Country>
     <Name>France</Name>
     <Capital>Paris</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -787,7 +787,7 @@
    <Country>
     <Name>French Guyana</Name>
     <Capital>Cayenne</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -829,7 +829,7 @@
    <Country>
     <Name>Germany</Name>
     <Capital>Berlin</Capital>
-    <Currency>Euro  (EUR)</Currency>
+    <Currency>Euro €  (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1053,7 +1053,7 @@
    <Country>
     <Name>Ireland</Name>
     <Capital>Dublin</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>0</UTC>
@@ -1081,7 +1081,7 @@
    <Country>
     <Name>Italy</Name>
     <Capital>Rome</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1207,7 +1207,7 @@
    <Country>
     <Name>Kosovo</Name>
     <Capital>Pristina</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC></UTC>
@@ -1361,7 +1361,7 @@
    <Country>
     <Name>Luxembourg</Name>
     <Capital>Luxemburg</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1459,7 +1459,7 @@
    <Country>
     <Name>Malta</Name>
     <Capital>Valletta</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1530,7 +1530,7 @@
    <Country>
     <Name>Monaco</Name>
     <Capital>Monaco</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1558,7 +1558,7 @@
    <Country>
     <Name>Montenegro</Name>
     <Capital>Podgorica</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1656,7 +1656,7 @@
    <Country>
     <Name>Netherlands</Name>
     <Capital>Amsterdam</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -1852,7 +1852,7 @@
    <Country>
     <Name>Portugal</Name>
     <Capital>Lisbon</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+00:00</UTC>
@@ -1922,7 +1922,7 @@
    <Country>
     <Name>San Marino</Name>
     <Capital>San Marino</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2020,7 +2020,7 @@
    <Country>
     <Name>Slovakia</Name>
     <Capital>Bratislava</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2034,7 +2034,7 @@
    <Country>
     <Name>Slovenia</Name>
     <Capital>Ljubljana</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2090,7 +2090,7 @@
    <Country>
     <Name>Spain</Name>
     <Capital>Madrid</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
@@ -2468,7 +2468,7 @@
    <Country>
     <Name>Vatican</Name>
     <Capital>Vatican City</Capital>
-    <Currency>Euro (EUR)</Currency>
+    <Currency>Euro € (EUR)</Currency>
     <StartDate>03/25/2012</StartDate>
     <EndDate>10/28/2012</EndDate>
     <UTC>+01:00</UTC>
