@@ -18,8 +18,10 @@ namespace AboutCountries
 {
     public partial class PanoramaPage1 : PhoneApplicationPage
     {
+        int id = -1;
         public PanoramaPage1()
         {
+            
             InitializeComponent();
             bool isConnected = NetworkInterface.GetIsNetworkAvailable();
             #if DEBUG
@@ -44,7 +46,8 @@ namespace AboutCountries
             string idParam;
             if (NavigationContext.QueryString.TryGetValue("ID", out idParam))
             {
-                int id = Int32.Parse(idParam);
+                
+               id = Int32.Parse(idParam);
                 DataContext = AllCountry.Current[id];
                 AClock aa = new AClock();
                 string utc = AllCountry.Current[id].UTC;
@@ -76,16 +79,25 @@ namespace AboutCountries
 
                 flag.Source = flagImgSource;
 
+               // MessageBox.Show("ss7");
                 string sLong= longStr.Replace('°', '.');
                 string sLat = latStr.Replace('°', '.');
+               // MessageBox.Show("ss76");
                 int latIndex = sLat.IndexOf("'");
+               // MessageBox.Show("int latIndex = sLat.IndexOf(\"'\");");
                 sLat=sLat.Remove(latIndex);
-                int longIndex = sLong.IndexOf("'");
+               // MessageBox.Show("xx");
+               int longIndex = sLong.IndexOf("'");
+               // MessageBox.Show("xx3w");
                 sLong=sLong.Remove(longIndex);
-
+               // MessageBox.Show(sLong);
+                IFormatProvider culture = new CultureInfo("en-GB");
+                double dsLong = double.Parse(sLong, culture);
+                double dsLat = double.Parse(sLat, culture);
                 //if LAT contains N & Long contains W 
-                double iLong = (longStr.IndexOf("W")!=-1?-1:1) *double.Parse(sLong);
-                double iLat  = (latStr.IndexOf("N")!=-1?1:-1) * double.Parse(sLat);
+                 double iLong = (longStr.IndexOf("W") != -1 ? -1 : 1) * dsLong;
+                double iLat = (latStr.IndexOf("N") != -1 ? 1 : -1) * dsLat;
+
                 mapUserControl1.Latitude = iLat;
                 mapUserControl1.Longitude = iLong;
                 mapUserControl1.display();
@@ -123,7 +135,7 @@ namespace AboutCountries
                     utc = "0";
 
                 UTCtxt.Text = utc;
-
+          
                 int len = utc.Length;
                 string hourStr = "0";
                 string minuteStr = "0";
@@ -144,8 +156,8 @@ namespace AboutCountries
                     }
                 }
 
-                double hh = double.Parse(hourStr);
-                double mm = double.Parse(minuteStr);
+                double hh = double.Parse(hourStr, culture);
+                double mm = double.Parse(minuteStr, culture);
                 string st_date = AllCountry.Current[id].StartDate;
                 string en_date = AllCountry.Current[id].EndDate;
                 st_date.Trim();
@@ -153,8 +165,9 @@ namespace AboutCountries
 
                 if (st_date.Length > 0)
                 {
-
-                    IFormatProvider culture = new CultureInfo("en-GB");
+                    //MessageBox.Show("ss72");
+                    //IFormatProvider culture = new CultureInfo("en-GB");
+                    //MessageBox.Show("ss765");
                     DateTime dt_start = DateTime.ParseExact(st_date, "M/dd/yyyy", culture);
                     DateTime dt_end = DateTime.ParseExact(en_date, "M/dd/yyyy", culture);
                     DateTime dt_today = DateTime.Now;
@@ -185,9 +198,37 @@ namespace AboutCountries
                 
                 aa.Hours = hh;
                 aa.Minutes = double.Parse(minuteStr);
+
+                if (App.FavGroupsID.Contains(id))
+                {
+                    textBlockAddFav.Text = "Remove from Fav";
+                   // btnAddFav.Background.
+                    string iconPath = "icons/remove-favourites.png";
+                    Uri Iconuri = new Uri(iconPath, UriKind.Relative);
+
+                    ImageBrush brush1 = new ImageBrush();
+                    BitmapImage image = new BitmapImage(Iconuri);
+                    brush1.ImageSource = image;
+                    btnAddFav.Background = brush1;
+                }
                 
                 canvas1.Children.Add(aa);
             }
+        }
+
+        private void btnAddFav_Click(object sender, RoutedEventArgs e)
+        {
+            if (textBlockAddFav.Text == "Remove from Fav")
+            {
+                App.FavGroupsID.Remove(id);
+                App.saveSettings();
+            }
+            else
+            {
+                App.FavGroupsID.Add(id);
+                App.saveSettings();
+            }
+            this.NavigationService.Navigate(new Uri("/StartPage.xaml", UriKind.Relative));
         }
     }
 }

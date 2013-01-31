@@ -1138,8 +1138,8 @@
     <Name>Jordan</Name>
     <Capital>Amman</Capital>
     <Currency>Jordanian dinar(JOD)</Currency>
-    <StartDate>03/30/2012</StartDate>
-    <EndDate>10/26/2012</EndDate>
+    <StartDate>01/10/2013</StartDate>
+    <EndDate>10/26/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Asia</Region>
     <Latitude>31°57'N</Latitude>
@@ -1684,7 +1684,7 @@
    <Country>
     <Name>Nicaragua</Name>
     <Capital>Managua</Capital>
-    <Currency>C°rdoba(NIO)</Currency>
+    <Currency>Córdoba(NIO)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>

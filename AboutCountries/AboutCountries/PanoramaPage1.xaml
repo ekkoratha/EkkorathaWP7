@@ -86,34 +86,35 @@
                     <!--Flag-->
                     <TextBlock Style="{StaticResource Label}" Margin="22,305,0,0" Name="FlagLbl" Text="Flag" Width="87" />
                 
-                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="0,297,233,151" HorizontalAlignment="Right">                        
+                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="0,302,233,328" HorizontalAlignment="Right">                        
                     </Image>
                     <HyperlinkButton Content="Link to Wiki Page" Height="30" HorizontalAlignment="Left" Margin="99,360,0,0" Name="hyperlinkButton1" VerticalAlignment="Top" Width="200" />
                     <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3"
                                   Height="77" 
-                                  HorizontalAlignment="Left" Margin="8,415,0,0" Name="adControl1" VerticalAlignment="Top" Width="400" />
+                                  HorizontalAlignment="Left" Margin="8,413,0,0" Name="adControl1" VerticalAlignment="Top" Width="400" />
                     
                 </Grid>
             </controls:PanoramaItem>
             <!--Panorama item two-->
             <controls:PanoramaItem Header="Geographical ">
-                <Grid>                   
-                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,150" HorizontalAlignment="Center" VerticalAlignment="Center" Height="348" Width="422">
+                <Grid>
+                    <Grid Background="White" Name="myCanvas1" Margin="0,0,-2,150"  HorizontalAlignment="Center" VerticalAlignment="Center" Height="348" Width="422">
                        <Image Name="map" Source="img\Albania.png" Visibility="Collapsed"/>
                     </Grid>
                     <my1:MapUserControl HorizontalAlignment="Left"  
-                         x:Name="mapUserControl1" VerticalAlignment="Top" Height="345" />
+                         x:Name="mapUserControl1" VerticalAlignment="Top" Height="496" Width="424" HorizontalContentAlignment="Left" />
                     
-                    <TextBlock Height="29" Width="83"  Name="logintute1" Text="Longitude" Margin="206,376,131,92"/>
-                    <TextBlock Height="29" Width="108" Name="Longitude1Txt" Text=""  Margin="301,374,11,94" FontSize="20" FontWeight="Bold" />
+                    <TextBlock Height="29" Width="83"  Name="logintute1" Text="Longitude" Margin="206,552,131,99"/>
+                    <TextBlock Height="29" Width="108" Name="Longitude1Txt" Text=""  Margin="301,550,11,101" FontSize="20" FontWeight="Bold" />
 
-                    <TextBlock Height="29" Width="75" Name="latitude1" Text="Latitude" Margin="2,376,343,92"/>
-                    <TextBlock Height="29" Width="108" Name="Latitude2Txt" Text="" Margin="72,376,240,92" FontSize="20" FontWeight="Bold" />
+                    <TextBlock Height="29" Width="75" Name="latitude1" Text="Latitude" Margin="2,552,343,99"/>
+                    <TextBlock Height="29" Width="108" Name="Latitude2Txt" Text="" Margin="72,552,240,99" FontSize="20" FontWeight="Bold" />
                     
-                    <TextBlock Height="29" Width="95" Name="textBlock6" Text="Region" Margin="3,346,322,122" />
-                    <TextBlock Height="29" Width="170" FontSize="22" FontWeight="Bold" Name="RegionTxt" Text=" " Margin="70,344,180,124" />
+                    <TextBlock Height="29" Width="95" Name="textBlock6" Text="Region" Margin="3,522,322,129" />
+                    <TextBlock Height="29" Width="170" FontSize="22" FontWeight="Bold" Name="RegionTxt" Text=" " Margin="80,516,170,134" />
                     <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3" 
-                                  Height="77" HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl2" VerticalAlignment="Top" Width="400" />
+                                  Height="77" 
+                                  HorizontalAlignment="Left" Margin="8,413,0,0" Name="adControl2" VerticalAlignment="Top" Width="400" />
                 </Grid>
             </controls:PanoramaItem>
             <!--Panorama item two-->
@@ -129,10 +130,23 @@
 
                     <TextBlock Style="{StaticResource Label}"  Margin="22,102,0,0" Name="textBlock3" Text="Time" Width="86" />
                     <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3" 
-                                  Height="77" HorizontalAlignment="Left" Margin="0,415,0,0" Name="adControl3" VerticalAlignment="Top" Width="400" />
+                                  Height="77" HorizontalAlignment="Left" Margin="8,413,0,0" Name="adControl3" VerticalAlignment="Top" Width="400" />
                 </Grid>
             </controls:PanoramaItem>
-            
+            <!--Panorama item two-->
+            <controls:PanoramaItem Header="Misc">
+                <Grid>
+                    <!--<Canvas Name="myCanvas">
+                        <Image Width="468"  Source="world.png" Height="260" />                        
+                    </Canvas>-->
+                    <TextBlock Style="{StaticResource Label}" Margin="30,70,0,0" Name="textBlockAddFav" Text="Add to Favorites"  Width="167" />
+                    <Button Height="122" HorizontalAlignment="Left" Margin="226,27,0,0" Name="btnAddFav" VerticalAlignment="Top" Width="126" Click="btnAddFav_Click">
+                        <Button.Background>
+                            <ImageBrush ImageSource="/AboutCountries;component/icons/add-favourites.png" />
+                        </Button.Background>
+                    </Button>
+                </Grid>
+            </controls:PanoramaItem>
         </controls:Panorama>
         
     </Grid>

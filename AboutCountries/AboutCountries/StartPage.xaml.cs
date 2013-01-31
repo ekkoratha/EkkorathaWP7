@@ -18,7 +18,20 @@ namespace AboutCountries
         public StartPage()
         {
             InitializeComponent();
+
+            if (App.FavGroupsID.Count == 0)
+            {
+                btnFav.Visibility = Visibility.Collapsed;
+                OrByLabel.Visibility = Visibility.Collapsed;
+            }
+            else
+            {
+                btnFav.Visibility = Visibility.Visible;
+                OrByLabel.Visibility = Visibility.Visible;
+            }
+
         }
+        
 
         private void btnAlphabetic_Click(object sender, RoutedEventArgs e)
         {

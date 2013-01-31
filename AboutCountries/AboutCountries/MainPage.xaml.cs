@@ -27,13 +27,27 @@ namespace AboutCountries
 
             buddies.SelectionChanged += CountrySelectionChanged;
         }
+        
+private void ContextMenu_Closed(object sender, RoutedEventArgs e) 
+{
+    buddies.IsEnabled = true; 
+ } 
+
+ private void ContextMenu_Opened(object sender, RoutedEventArgs e) 
+ {
+
+     buddies.IsEnabled = false; 
+ } 
 
 
         void CountrySelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+          //  MessageBox.Show("ss");
             Country country = buddies.SelectedItem as Country;
+           // MessageBox.Show("ss2");
             if (country != null)
             {
+             //   MessageBox.Show("ss3");
                 NavigationService.Navigate(new Uri("/PanoramaPage1.xaml?ID=" + country.ID, UriKind.Relative));
                 buddies.SelectedItem = null;
             }
@@ -51,5 +65,23 @@ namespace AboutCountries
             marketplaceReviewTask.Show();
 
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            Country country = buddies.SelectedItem as Country;
+            string ss = "You chose to ";
+            if (country != null)
+            {
+              //  NavigationService.Navigate(new Uri("/PanoramaPage1.xaml?ID=" + country.ID, UriKind.Relative));
+              //  buddies.SelectedItem = null;
+                ss += country.ID.ToString();
+            }
+
+            MenuItem menuItem = (MenuItem)sender;
+          //  menuItem.
+            //MessageBox.Show("You chose to  " + menuItem.Header.ToString(), "Result", MessageBoxButton.OK);
+            MessageBox.Show(ss + menuItem.Header.ToString());
+        }
+
     }
 }

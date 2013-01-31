@@ -12,11 +12,18 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using System.IO.IsolatedStorage;
+using System.Text;
 
 namespace AboutCountries
 {
     public partial class App : Application
     {
+        //public static readonly int[] FavGroupsID = { 1, 5, 25, 60, 89, 120 };
+       // public static readonly List<int> FavGroupsID = new List<int>{ 1, 5, 25, 60, 89, 120 };
+        public static readonly List<int> FavGroupsID = new List<int>();
+        private static IsolatedStorageSettings IDSettings = IsolatedStorageSettings.ApplicationSettings;
+
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
         /// </summary>
@@ -63,24 +70,75 @@ namespace AboutCountries
         // This code will not execute when the application is reactivated
         private void Application_Launching(object sender, LaunchingEventArgs e)
         {
+            loadSettings();
         }
+
+        public static void loadSettings()
+        { // Retrieve and set user name.
+            try
+            {
+                string IdsArray = (string)IDSettings["Ids"];
+                if (IdsArray.Length != 0)
+                {
+                    string[] split = IdsArray.Split(new Char[] { ',' });
+
+                    foreach (string s in split)
+                    {
+                        if (s.Trim() != "")
+                            FavGroupsID.Add(Int16.Parse(s));
+
+                    }
+                }
+            }
+            catch (System.Collections.Generic.KeyNotFoundException)
+            {
+                // No preference is saved.                
+            }
+        }
+        public static void saveSettings()
+        {
+            try
+            {
+                StringBuilder sb = new StringBuilder();
+                int j = 0;
+                foreach (int favCountry in App.FavGroupsID)
+                {
+                    if (j != 0)
+                    {
+                        sb.Append(",");
+                    }
+                    j++;
+
+                    sb.Append(favCountry.ToString());
+                }
+                IDSettings.Add("Ids", sb.ToString());
+            }
+            catch (ArgumentException ex)
+            {
+
+            }
+        }
+
 
         // Code to execute when the application is activated (brought to foreground)
         // This code will not execute when the application is first launched
         private void Application_Activated(object sender, ActivatedEventArgs e)
         {
+            loadSettings();
         }
 
         // Code to execute when the application is deactivated (sent to background)
         // This code will not execute when the application is closing
         private void Application_Deactivated(object sender, DeactivatedEventArgs e)
         {
+            saveSettings();
         }
 
         // Code to execute when the application is closing (eg, user hit Back)
         // This code will not execute when the application is deactivated
         private void Application_Closing(object sender, ClosingEventArgs e)
         {
+            saveSettings();
         }
 
         // Code to execute if a navigation fails
@@ -140,3 +198,36 @@ namespace AboutCountries
         #endregion
     }
 }
+
+
+/*
+ *  13: using System.IO.IsolatedStorage;
+ 14:
+ 15:
+ 16: namespace F5debugWp7IsolatedStorage
+ 17: {
+ 18:     public partial class MainPage : PhoneApplicationPage
+ 19:     {
+ 20:         // Constructor
+ 21:         public MainPage()
+ 22:         {
+ 23:             InitializeComponent();
+ 24:         }
+ 25:
+ 26:         private void button3_Click(object sender, RoutedEventArgs e)
+ 27:         {
+ 28:             IsolatedStorageSettings ISSetting = IsolatedStorageSettings.ApplicationSettings;
+ 29:
+ 30:             if (!ISSetting.Contains("DataKey"))
+ 31:             {
+ 32:                 ISSetting.Add("DataKey", txtSaveData.Text);
+ 33:             }
+ 34:             else
+ 35:             {
+ 36:                 ISSetting["DataKey"] = txtSaveData.Text;
+ 37:             }
+ 38:             ISSetting.Save();
+ 39:         }
+ 40:     }
+
+*/

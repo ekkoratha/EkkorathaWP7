@@ -49,7 +49,7 @@
             </Border>
         </DataTemplate>
         
-       <data:CountryByFirstName x:Key="buddies"/>
+       <data:CountryByFav x:Key="buddies"/>
        <data:GroupToBrushValueConverter x:Key="groupBrush"/>
     </phone:PhoneApplicationPage.Resources>
     <!--LayoutRoot is the root grid where all page content is placed-->
@@ -136,7 +136,7 @@
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
             <shell:ApplicationBar.MenuItems>
                 <shell:ApplicationBarMenuItem x:Name="About" Text="About" Click="MenuAboutClick"/>
-                <shell:ApplicationBarMenuItem x:Name="RateThis" Text="Review This app!" Click="MenuRateThisClick"/>
+                <shell:ApplicationBarMenuItem x:Name="RateThis" Text="Rate this app!" Click="MenuRateThisClick"/>
             </shell:ApplicationBar.MenuItems>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

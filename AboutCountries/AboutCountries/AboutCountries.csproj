@@ -36,6 +36,7 @@
     <NoConfig>true</NoConfig>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -393,6 +394,7 @@
     <Resource Include="png\Korea North.png" />
     <Resource Include="png\Yugoslavia.png" />
     <Resource Include="png\The Gambia.png" />
+    <Resource Include="icons\add-favourites.png" />
     <Content Include="icons\appbar.back.rest.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -581,6 +583,7 @@
     <Resource Include="img\Yugoslavia.png" />
     <Resource Include="img\Zambia.png" />
     <Resource Include="img\Zimbabwe.png" />
+    <Resource Include="icons\remove-favourites.png" />
     <Content Include="README_FIRST.txt" />
     <Content Include="SplashScreenImage.jpg" />
     <Resource Include="world.png" />
