@@ -85,9 +85,9 @@
                     <TextBlock Style="{StaticResource textField}" Margin="136,250,0,0" Name="DialTxt" Text="" />
                     <!--Flag-->
                     <TextBlock Style="{StaticResource Label}" Margin="22,305,0,0" Name="FlagLbl" Text="Flag" Width="87" />
-                
-                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="0,302,233,328" HorizontalAlignment="Right">                        
-                    </Image>
+
+                    <Image  Width="50" Height="50" Name="flag" Source="png\Albania.png" Margin="130,302,240,146"  />                        
+                    
                     <HyperlinkButton Content="Link to Wiki Page" Height="30" HorizontalAlignment="Left" Margin="99,360,0,0" Name="hyperlinkButton1" VerticalAlignment="Top" Width="200" />
                     <my:AdControl AdUnitId="10040399" ApplicationId="e1922da2-b6c4-490c-8515-01f40583e9f3"
                                   Height="77" 

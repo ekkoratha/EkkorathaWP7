@@ -111,7 +111,7 @@ namespace AboutCountries
 
                     sb.Append(favCountry.ToString());
                 }
-                IDSettings.Add("Ids", sb.ToString());
+                IDSettings["Ids"]=sb.ToString();
             }
             catch (ArgumentException ex)
             {

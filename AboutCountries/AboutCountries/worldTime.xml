@@ -18,8 +18,8 @@
     <Name>Albania</Name>
     <Capital>Tirana</Capital>
     <Currency>Lek(ALL)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/25/2013</StartDate>
+    <EndDate>10/28/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>41°20'N</Latitude>
@@ -46,8 +46,8 @@
     <Name>Andorra</Name>
     <Capital>Andorra-la-vella</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>42°31'N</Latitude>
@@ -116,8 +116,8 @@
     <Name>Australia</Name>
     <Capital>Canberra</Capital>
     <Currency>Australian dollar(AUD)</Currency>
-    <StartDate>10/07/2012</StartDate>
-    <EndDate>04/01/2012</EndDate>
+    <StartDate>10/06/2013</StartDate>
+    <EndDate>04/07/2013</EndDate>
     <UTC>+10:00</UTC>
     <Region>Oceania</Region>
     <Latitude>35°15'S</Latitude>
@@ -130,8 +130,8 @@
     <Name>Austria</Name>
     <Capital>Vienna</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>48°12'N</Latitude>
@@ -158,8 +158,8 @@
     <Name>Bahamas</Name>
     <Capital>Nassau</Capital>
     <Currency>Bahamian dollar(BSD)</Currency>
-    <StartDate>04/11/2012</StartDate>
-    <EndDate>11/04/2012</EndDate>
+    <StartDate>03/10/2013</StartDate>
+    <EndDate>11/03/2013</EndDate>
     <UTC>-05:00</UTC>
     <Region>North America</Region>
     <Latitude>25°05'N</Latitude>
@@ -227,9 +227,9 @@
    <Country>
     <Name>Belgium</Name>
     <Capital>Brussels</Capital>
-    <Currency>Euro(EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <Currency>Euro € (EUR)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>50°51'N</Latitude>
@@ -298,8 +298,8 @@
     <Name>Bosnia-Herzegovina</Name>
     <Capital>Sarajevo</Capital>
     <Currency>Convertible mark(BAM)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>43°52'N</Latitude>
@@ -326,8 +326,8 @@
     <Name>Brazil</Name>
     <Capital>Brasilia</Capital>
     <Currency>Real(BRL)</Currency>
-    <StartDate>10/21/2012</StartDate>
-    <EndDate>02/26/2012</EndDate>
+    <StartDate>10/20/2013</StartDate>
+    <EndDate>02/17/2013</EndDate>
     <UTC>-03:00</UTC>
     <Region>South America</Region>
     <Latitude>15°47'S</Latitude>
@@ -354,8 +354,8 @@
     <Name>Bulgaria</Name>
     <Capital>Sofia</Capital>
     <Currency>Lev(BGN)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>42°45'N</Latitude>
@@ -424,8 +424,8 @@
     <Name>Canada</Name>
     <Capital>Ottawa</Capital>
     <Currency>Canadian dollar(CAD)</Currency>
-    <StartDate>03/11/2012</StartDate>
-    <EndDate>11/04/2012</EndDate>
+    <StartDate>03/10/2013</StartDate>
+    <EndDate>11/03/2013</EndDate>
     <UTC>-05:00</UTC>
     <Region>North America</Region>
     <Latitude>45°27'N</Latitude>
@@ -480,8 +480,8 @@
     <Name>Chile</Name>
     <Capital>Santiago</Capital>
     <Currency>Peso(CLP)</Currency>
-    <StartDate>09/02/2012</StartDate>
-    <EndDate>04/29/2012</EndDate>
+    <StartDate>10/13/2013</StartDate>
+    <EndDate>03/10/2013</EndDate>
     <UTC>-04:00</UTC>
     <Region>South America</Region>
     <Latitude>33°24'S</Latitude>
@@ -549,7 +549,7 @@
    <Country>
     <Name>Costa Rica</Name>
     <Capital>San Jose</Capital>
-    <Currency>Costa Rican col°n(CRC)</Currency>
+    <Currency>Costa Rican col�n(CRC)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -564,8 +564,8 @@
     <Name>Croatia</Name>
     <Capital>Zagreb</Capital>
     <Currency>Kuna(HRK)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>45°50'N</Latitude>
@@ -592,8 +592,8 @@
     <Name>Cyprus</Name>
     <Capital>Nicosia</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Asia</Region>
     <Latitude>35°10'N</Latitude>
@@ -606,8 +606,8 @@
     <Name>Czech Republic</Name>
     <Capital>Prague</Capital>
     <Currency>Czech koruna(CZK)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>50°05'N</Latitude>
@@ -619,10 +619,10 @@
    <Country>
     <Name>Denmark</Name>
     <Capital>Copenhagen</Capital>
-    <Currency>Danish krone()</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
-    <UTC></UTC>
+    <Currency>Danish krone(DKK)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
+    <UTC>+00:00</UTC>
     <Region>Europe</Region>
     <Latitude>55°41'N</Latitude>
     <Longitude>12°34'E</Longitude>
@@ -661,10 +661,10 @@
    <Country>
     <Name>Ecuador</Name>
     <Capital>Quito</Capital>
-    <Currency>United States dollar( ()</Currency>
+    <Currency>United States dollar $ (USD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>South America</Region>
     <Latitude>00°15'S</Latitude>
     <Longitude>78°35'W</Longitude>
@@ -689,7 +689,7 @@
    <Country>
     <Name>El Salvador</Name>
     <Capital>San Salvador</Capital>
-    <Currency>U.S. dollar( ()</Currency>
+    <Currency>U S Dollar $ (USD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -717,7 +717,7 @@
    <Country>
     <Name>Eritrea</Name>
     <Capital>Asmara</Capital>
-    <Currency>Nakfa(ERN)</Currency>
+    <Currency>Nakfa (ERN)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+03:00</UTC>
@@ -731,9 +731,9 @@
    <Country>
     <Name>Estonia</Name>
     <Capital>Tallinn</Capital>
-    <Currency>Euro(EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <Currency>Euro € (EUR)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>59°22'N</Latitude>
@@ -745,9 +745,9 @@
    <Country>
     <Name>Fiji</Name>
     <Capital>Suva</Capital>
-    <Currency>Fijian dollar(FJD)</Currency>
-    <StartDate>10/21/2012</StartDate>
-    <EndDate>01/22/2012</EndDate>
+    <Currency>Fijian dollar (FJD)</Currency>
+    <StartDate>10/27/2013</StartDate>
+    <EndDate>01/20/2013</EndDate>
     <UTC>+12:00</UTC>
     <Region>Oceania</Region>
     <Latitude>18°06'S</Latitude>
@@ -760,8 +760,8 @@
     <Name>Finland</Name>
     <Capital>Helsinki</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>60°15'N</Latitude>
@@ -774,8 +774,8 @@
     <Name>France</Name>
     <Capital>Paris</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>48°50'N</Latitude>
@@ -790,7 +790,7 @@
     <Currency>Euro € (EUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>South America</Region>
     <Latitude>05°05'N</Latitude>
     <Longitude>52°18'W</Longitude>
@@ -802,8 +802,8 @@
     <Name>Gabon</Name>
     <Capital>Libereville</Capital>
     <Currency>Central African CFA franc(XAF)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Africa</Region>
     <Latitude>00°25'N</Latitude>
@@ -829,9 +829,9 @@
    <Country>
     <Name>Germany</Name>
     <Capital>Berlin</Capital>
-    <Currency>Euro €  (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <Currency>Euro € (EUR)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>52°30'N</Latitude>
@@ -843,10 +843,10 @@
    <Country>
     <Name>Ghana</Name>
     <Capital>Accra</Capital>
-    <Currency>Ghana cedi(GHS)</Currency>
+    <Currency>Ghana cedi (GHS)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>05°35'N</Latitude>
     <Longitude>00°06'W</Longitude>
@@ -857,9 +857,9 @@
    <Country>
     <Name>Greece</Name>
     <Capital>Athens</Capital>
-    <Currency>Euro(EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <Currency>Euro € (EUR)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>37°58'N</Latitude>
@@ -871,7 +871,7 @@
    <Country>
     <Name>Grenada</Name>
     <Capital>St. George</Capital>
-    <Currency>East Caribbean dollar(XCD)</Currency>
+    <Currency>East Caribbean dollar (XCD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
@@ -902,7 +902,7 @@
     <Currency>Guinean franc(GNF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>09°29'N</Latitude>
     <Longitude>13°49'W</Longitude>
@@ -916,7 +916,7 @@
     <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>11°45'N</Latitude>
     <Longitude>15°45'W</Longitude>
@@ -942,8 +942,8 @@
     <Name>Haiti</Name>
     <Capital>Port-au-Prince</Capital>
     <Currency>Gourde(HTG)</Currency>
-    <StartDate>03/11/2012</StartDate>
-    <EndDate>11/04/2012</EndDate>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
     <UTC>-05:00</UTC>
     <Region>North America</Region>
     <Latitude>18°40'N</Latitude>
@@ -970,8 +970,8 @@
     <Name>Hungary</Name>
     <Capital>Budapest</Capital>
     <Currency>Forint(HUF)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>47°29'N</Latitude>
@@ -983,10 +983,10 @@
    <Country>
     <Name>Iceland</Name>
     <Capital>Reykavik</Capital>
-    <Currency>Icelandic kr°na(ISK)</Currency>
+    <Currency>Icelandic kr�na(ISK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Europe</Region>
     <Latitude>64°10'N</Latitude>
     <Longitude>21°57'W</Longitude>
@@ -997,7 +997,7 @@
    <Country>
     <Name>India</Name>
     <Capital>New Delhi</Capital>
-    <Currency>Indian rupee(INR)</Currency>
+    <Currency>Indian rupee (INR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:30</UTC>
@@ -1014,7 +1014,7 @@
     <Currency>Rupiah(IDR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Asia</Region>
     <Latitude>06°09'S</Latitude>
     <Longitude>106°49'E</Longitude>
@@ -1026,8 +1026,8 @@
     <Name>Iran</Name>
     <Capital>Tehran</Capital>
     <Currency>Rial(IRR)</Currency>
-    <StartDate>03/21/2012</StartDate>
-    <EndDate>09/21/2012</EndDate>
+    <StartDate>03/21/2013</StartDate>
+    <EndDate>09/21/2013</EndDate>
     <UTC>+03:30</UTC>
     <Region>Asia</Region>
     <Latitude>35°44'N</Latitude>
@@ -1054,9 +1054,9 @@
     <Name>Ireland</Name>
     <Capital>Dublin</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
-    <UTC>0</UTC>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
+    <UTC>+00:00</UTC>
     <Region>Europe</Region>
     <Latitude>53°21'N</Latitude>
     <Longitude>06°15'W</Longitude>
@@ -1068,8 +1068,8 @@
     <Name>Israel</Name>
     <Capital>Jerusalem</Capital>
     <Currency>New shekel(ILS)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>09/23/2012</EndDate>
+    <StartDate>03/30/2013</StartDate>
+    <EndDate>09/23/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Asia</Region>
     <Latitude>31°47'N</Latitude>
@@ -1082,8 +1082,8 @@
     <Name>Italy</Name>
     <Capital>Rome</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>41°54'N</Latitude>
@@ -1098,7 +1098,7 @@
     <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>06°49'N</Latitude>
     <Longitude>05°17'W</Longitude>
@@ -1138,8 +1138,8 @@
     <Name>Jordan</Name>
     <Capital>Amman</Capital>
     <Currency>Jordanian dinar(JOD)</Currency>
-    <StartDate>01/10/2013</StartDate>
-    <EndDate>10/26/2013</EndDate>
+    <StartDate>01/01/2013</StartDate>
+    <EndDate>10/25/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Asia</Region>
     <Latitude>31°57'N</Latitude>
@@ -1150,11 +1150,11 @@
    </Country>
    <Country>
     <Name>Kazakhstan</Name>
-    <Capital>Astana</Capital>
+    <Capital>Almaty</Capital>
     <Currency>Tenge(KZT)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+06:00</UTC>
     <Region>Asia</Region>
     <Latitude>51°10'N</Latitude>
     <Longitude>71°30'E</Longitude>
@@ -1182,7 +1182,7 @@
     <Currency>North Korean won(KPW)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Asia</Region>
     <Latitude>40°00'N </Latitude>
     <Longitude>127°00'E</Longitude>
@@ -1196,7 +1196,7 @@
     <Currency>South Korean won(KRW)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Asia</Region>
     <Latitude>37°31'N</Latitude>
     <Longitude>126°58'E</Longitude>
@@ -1210,7 +1210,7 @@
     <Currency>Euro € (EUR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Europe</Region>
     <Latitude>42°40'N</Latitude>
     <Longitude>21°10'E</Longitude>
@@ -1264,8 +1264,8 @@
     <Name>Latvia</Name>
     <Capital>Riga</Capital>
     <Currency>Lats(LVL)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>56°53'N</Latitude>
@@ -1278,8 +1278,8 @@
     <Name>Lebanon</Name>
     <Capital>Beirut</Capital>
     <Currency>Lebanese pound(LBP)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Asia</Region>
     <Latitude>33°53'N</Latitude>
@@ -1292,8 +1292,8 @@
     <Name>Liechtenstein</Name>
     <Capital>Vaduz</Capital>
     <Currency>Swiss franc(CHF)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>47°08'N</Latitude>
@@ -1319,10 +1319,10 @@
    <Country>
     <Name>Liberia</Name>
     <Capital>Monorovia</Capital>
-    <Currency>Liberian dollar( ()</Currency>
+    <Currency>Liberian dollar (LRD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>06°18'N</Latitude>
     <Longitude>10°47'W</Longitude>
@@ -1348,8 +1348,8 @@
     <Name>Lithuania</Name>
     <Capital>Vilnius</Capital>
     <Currency>Lithuanian litas(LTL)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>54°38'N</Latitude>
@@ -1362,8 +1362,8 @@
     <Name>Luxembourg</Name>
     <Capital>Luxemburg</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>49°37'N</Latitude>
@@ -1376,8 +1376,8 @@
     <Name>Macedonia</Name>
     <Capital>Skopje</Capital>
     <Currency>Macedonian denar (MKD)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>42°01'N</Latitude>
@@ -1448,7 +1448,7 @@
     <Currency>West African CFA franc(XOF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>12°34'N</Latitude>
     <Longitude>07°55'W</Longitude>
@@ -1460,8 +1460,8 @@
     <Name>Malta</Name>
     <Capital>Valletta</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>35°54'N</Latitude>
@@ -1476,7 +1476,7 @@
     <Currency>Ouguiya(MRO)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC></UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>18°09'N</Latitude>
     <Longitude>15°58'W</Longitude>
@@ -1502,9 +1502,9 @@
     <Name>Mexico</Name>
     <Capital>Mexico City</Capital>
     <Currency>Peso(MXN)</Currency>
-    <StartDate>04/01/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
-    <UTC></UTC>
+    <StartDate>04/01/2013</StartDate>
+    <EndDate>10/28/2013</EndDate>
+    <UTC>-06:00</UTC>
     <Region>North America</Region>
     <Latitude>19°20'N</Latitude>
     <Longitude>99°10'W</Longitude>
@@ -1531,8 +1531,8 @@
     <Name>Monaco</Name>
     <Capital>Monaco</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>43°43'N</Latitude>
@@ -1559,8 +1559,8 @@
     <Name>Montenegro</Name>
     <Capital>Podgorica</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>42°47'N</Latitude>
@@ -1573,8 +1573,8 @@
     <Name>Morocco</Name>
     <Capital>Rabat</Capital>
     <Currency>Moroccan dirham(MAD)</Currency>
-    <StartDate>04/29/2012</StartDate>
-    <EndDate>09/30/2012</EndDate>
+    <StartDate>04/29/2013</StartDate>
+    <EndDate>09/30/2013</EndDate>
     <UTC>0</UTC>
     <Region>Africa</Region>
     <Latitude>34°02'N</Latitude>
@@ -1615,8 +1615,8 @@
     <Name>Namibia</Name>
     <Capital>Windhoek</Capital>
     <Currency>Namibian dollar(NAD)</Currency>
-    <StartDate>09/02/2012</StartDate>
-    <EndDate>04/01/2012</EndDate>
+    <StartDate>09/02/2013</StartDate>
+    <EndDate>04/01/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Africa</Region>
     <Latitude>22°35'S</Latitude>
@@ -1657,8 +1657,8 @@
     <Name>Netherlands</Name>
     <Capital>Amsterdam</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>52°23'N</Latitude>
@@ -1671,8 +1671,8 @@
     <Name>New Zealand</Name>
     <Capital>Wellington</Capital>
     <Currency>New Zealand dollar(NZD)</Currency>
-    <StartDate>09/30/2012</StartDate>
-    <EndDate>04/01/2012</EndDate>
+    <StartDate>09/29/2013</StartDate>
+    <EndDate>04/07/2013</EndDate>
     <UTC>+12:00</UTC>
     <Region>Oceania</Region>
     <Latitude>41°19'S</Latitude>
@@ -1684,7 +1684,7 @@
    <Country>
     <Name>Nicaragua</Name>
     <Capital>Managua</Capital>
-    <Currency>Córdoba(NIO)</Currency>
+    <Currency>Cordoba(NIO)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-06:00</UTC>
@@ -1727,8 +1727,8 @@
     <Name>Norway</Name>
     <Capital>Oslo</Capital>
     <Currency>Norwegian krone(NOK)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>59°55'N</Latitude>
@@ -1768,7 +1768,7 @@
    <Country>
     <Name>Panama</Name>
     <Capital>Panama City</Capital>
-    <Currency>Balboa()</Currency>
+    <Currency>Balboa (PAB) ,  Dollar $ (USD)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-05:00</UTC>
@@ -1796,9 +1796,9 @@
    <Country>
     <Name>Paraguay</Name>
     <Capital>Asuncion</Capital>
-    <Currency>Guaran°(PYG)</Currency>
-    <StartDate>10/07/2012</StartDate>
-    <EndDate>04/08/2012</EndDate>
+    <Currency>Guaran�(PYG)</Currency>
+    <StartDate>10/06/2013</StartDate>
+    <EndDate>03/31/2013</EndDate>
     <UTC>-04:00</UTC>
     <Region>South America</Region>
     <Latitude>25°10'S</Latitude>
@@ -1839,8 +1839,8 @@
     <Name>Poland</Name>
     <Capital>Warsaw</Capital>
     <Currency>Zloty(PLN)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>52°13'N</Latitude>
@@ -1853,8 +1853,8 @@
     <Name>Portugal</Name>
     <Capital>Lisbon</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+00:00</UTC>
     <Region>Europe</Region>
     <Latitude>38°42'N</Latitude>
@@ -1923,8 +1923,8 @@
     <Name>San Marino</Name>
     <Capital>San Marino</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>43°55'N</Latitude>
@@ -1965,8 +1965,8 @@
     <Name>Serbia</Name>
     <Capital>Belgrade</Capital>
     <Currency>Serbian dinar(RSD)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>44°48'N</Latitude>
@@ -1979,8 +1979,8 @@
     <Name>Seychelles</Name>
     <Capital>Victoria</Capital>
     <Currency>Seychellois rupee(SCR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+04:00</UTC>
     <Region>Africa</Region>
     <Latitude>08°30'N</Latitude>
@@ -2021,8 +2021,8 @@
     <Name>Slovakia</Name>
     <Capital>Bratislava</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>48°10'N</Latitude>
@@ -2035,8 +2035,8 @@
     <Name>Slovenia</Name>
     <Capital>Ljubljana</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>46°04'N</Latitude>
@@ -2091,8 +2091,8 @@
     <Name>Spain</Name>
     <Capital>Madrid</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>40°25'N</Latitude>
@@ -2175,8 +2175,8 @@
     <Name>Sweden</Name>
     <Capital>Stockholm</Capital>
     <Currency>Swedish krona(SEK)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>59°20'N</Latitude>
@@ -2189,8 +2189,8 @@
     <Name>Switzerland</Name>
     <Capital>Berne</Capital>
     <Currency>Swiss franc(CHF)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>46°57'N</Latitude>
@@ -2203,8 +2203,8 @@
     <Name>Syria</Name>
     <Capital>Damascus</Capital>
     <Currency>Syrian pound(SYP)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/26/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Asia</Region>
     <Latitude>33°30'N</Latitude>
@@ -2329,8 +2329,8 @@
     <Name>Tunisia</Name>
     <Capital>Tunis</Capital>
     <Currency>Tunisian dinar(TND)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Africa</Region>
     <Latitude>36°50'N</Latitude>
@@ -2371,8 +2371,8 @@
     <Name>Uganda</Name>
     <Capital>Kampala</Capital>
     <Currency>Ugandan shilling(UGX)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+03:00</UTC>
     <Region>Africa</Region>
     <Latitude>00°20'N</Latitude>
@@ -2385,8 +2385,8 @@
     <Name>Ukraine</Name>
     <Capital>Kiev</Capital>
     <Currency>Ukrainian hryvnia(UAH)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+02:00</UTC>
     <Region>Europe</Region>
     <Latitude>50°30'N</Latitude>
@@ -2413,8 +2413,8 @@
     <Name>United Kingdom</Name>
     <Capital>London</Capital>
     <Currency>Pound sterling £ (GBP)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+00:00</UTC>
     <Region>Europe</Region>
     <Latitude>51°36'N</Latitude>
@@ -2427,8 +2427,8 @@
     <Name>United States of America</Name>
     <Capital>Washington D.C.</Capital>
     <Currency>United States dollar $ (USD)</Currency>
-    <StartDate>03/11/2012</StartDate>
-    <EndDate>11/04/2012</EndDate>
+    <StartDate>03/27/2013</StartDate>
+    <EndDate>11/03/2013</EndDate>
     <UTC>-08:00</UTC>
     <Region>North America</Region>
     <Latitude>38°53'N</Latitude>
@@ -2440,7 +2440,7 @@
    <Country>
     <Name>Uruguay</Name>
     <Capital>Montevideo</Capital>
-    <Currency>Uruguayan peso(UYU)</Currency>
+    <Currency>Uruguayan peso (UYU)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-03:00</UTC>
@@ -2469,8 +2469,8 @@
     <Name>Vatican</Name>
     <Capital>Vatican City</Capital>
     <Currency>Euro € (EUR)</Currency>
-    <StartDate>03/25/2012</StartDate>
-    <EndDate>10/28/2012</EndDate>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>41°54'N</Latitude>
@@ -2482,7 +2482,7 @@
    <Country>
     <Name>Venezuela</Name>
     <Capital>Caracas</Capital>
-    <Currency>Bolivar(VEF)</Currency>
+    <Currency>Bolivar (VEF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-4:30</UTC>
@@ -2538,7 +2538,7 @@
    <Country>
     <Name>Zambia</Name>
     <Capital>Lusaka</Capital>
-    <Currency>Zambian kwacha(ZMK)</Currency>
+    <Currency>Zambian kwacha (ZMK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
