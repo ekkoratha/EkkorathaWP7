@@ -48,15 +48,19 @@ namespace AboutCountries
         {
             map1.Center = new GeoCoordinate(Latitude, Longitude);
             map1.ZoomLevel = 5;
-            map1.ZoomBarVisibility = Visibility.Visible;
+            //map1.ZoomBarVisibility = Visibility.Visible;
             myCoordinateWatcher = new GeoCoordinateWatcher(GeoPositionAccuracy.High);
             myCoordinateWatcher.PositionChanged += new EventHandler<GeoPositionChangedEventArgs<GeoCoordinate>>(myCoordinateWatcher_PositionChanged);
 
             mapCenter = map1.Center;
             // Create a pushpin to put at the center of the view.
             Pushpin pin1 = new Pushpin();
+
+            pin1.Style = this.Resources["PushpinStyle"] as Style;
+
             pin1.Location = mapCenter;
             map1.Children.Add(pin1);
+            map1.SetView(mapCenter,6.0);
         }
         void myCoordinateWatcher_PositionChanged(object sender, GeoPositionChangedEventArgs<GeoCoordinate> e) 
         {             

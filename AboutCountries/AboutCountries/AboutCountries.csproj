@@ -584,6 +584,7 @@
     <Resource Include="img\Zambia.png" />
     <Resource Include="img\Zimbabwe.png" />
     <Resource Include="icons\remove-favourites.png" />
+    <Resource Include="icons\MapPin1.png" />
     <Content Include="README_FIRST.txt" />
     <Content Include="SplashScreenImage.jpg" />
     <Resource Include="world.png" />

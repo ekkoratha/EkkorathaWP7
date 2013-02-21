@@ -8,7 +8,21 @@
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
     d:DesignHeight="345" d:DesignWidth="420" xmlns:my="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps">
-    
+    <UserControl.Resources>
+        <Style TargetType="my:Pushpin" x:Key="PushpinStyle">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="my:Pushpin">
+                        <Image Source="icons/MapPin1.png" Stretch="None"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontSize" Value="18" />
+        </Style>
+    </UserControl.Resources>
+
     <Grid x:Name="LayoutRoot">
         <my:Map Height="345" Width="421" 
                 HorizontalAlignment="Left"

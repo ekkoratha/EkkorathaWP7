@@ -80,6 +80,7 @@ namespace AboutCountries
                 string IdsArray = (string)IDSettings["Ids"];
                 if (IdsArray.Length != 0)
                 {
+                    FavGroupsID.Clear();
                     string[] split = IdsArray.Split(new Char[] { ',' });
 
                     foreach (string s in split)
@@ -113,7 +114,7 @@ namespace AboutCountries
                 }
                 IDSettings["Ids"]=sb.ToString();
             }
-            catch (ArgumentException ex)
+            catch (ArgumentException )
             {
 
             }

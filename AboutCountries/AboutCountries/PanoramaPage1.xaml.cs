@@ -59,6 +59,7 @@ namespace AboutCountries
                 string latStr = AllCountry.Current[id].Latitude;
                 DialTxt.Text = AllCountry.Current[id].DialCode;
                 LangTxt.Text = AllCountry.Current[id].Language;
+                pan.Title= AllCountry.Current[id].Name;
 
                 hyperlinkButton1.NavigateUri =new Uri(AllCountry.Current[id].Link);
                 hyperlinkButton1.TargetName = "_blank";
@@ -225,8 +226,12 @@ namespace AboutCountries
             }
             else
             {
-                App.FavGroupsID.Add(id);
-                App.saveSettings();
+                if (!App.FavGroupsID.Contains(id))
+                {
+                    App.FavGroupsID.Add(id);
+                }
+                    App.saveSettings();
+                
             }
             this.NavigationService.Navigate(new Uri("/StartPage.xaml", UriKind.Relative));
         }

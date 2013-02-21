@@ -14,10 +14,8 @@ namespace AboutCountries
 {
     public class CountryByFav: List<CountryInGroup>
     {
-        private static readonly string[] FavGroups = { "India", "Serbia","United Kingdom"};
+       // private static readonly string[] FavGroups = { "India", "Serbia","United Kingdom"};
         //private static readonly int[] FavGroupsID = { 1,5,25,60 ,89,120};
-
-        private static readonly string Groups = "#abcdefghijklmnopqrstuvwxyz";
 
         private Dictionary<int, Country> _personLookup = new Dictionary<int, Country>();
 
