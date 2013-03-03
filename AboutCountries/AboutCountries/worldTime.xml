@@ -71,6 +71,20 @@
     <Link>http://en.wikipedia.org/wiki/Angola</Link>
    </Country>
    <Country>
+    <Name>Anguilla</Name>
+    <Capital>The Valley</Capital>
+    <Currency>East Caribbean dollar (XCD)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>-04:00</UTC>
+    <Region>North America</Region>
+    <Latitude>18°22'N</Latitude>
+    <Longitude>63°04'W</Longitude>
+    <DialCode>1-264</DialCode>
+    <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Anguilla</Link>
+   </Country>
+   <Country>
     <Name>Antigua and Barbuda</Name>
     <Capital>Saint John's</Capital>
     <Currency>East Caribbean dollar(XCD)</Currency>
@@ -113,6 +127,20 @@
     <Link>http://en.wikipedia.org/wiki/Armenia</Link>
    </Country>
    <Country>
+    <Name>Aruba</Name>
+    <Capital>Oranjestad</Capital>
+    <Currency>Aruban florin (AWG)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>-04:00</UTC>
+    <Region>North America</Region>
+    <Latitude></Latitude>
+    <Longitude></Longitude>
+    <DialCode>297</DialCode>
+    <Language>Dutch, Papiamento</Language>
+    <Link>http://en.wikipedia.org/wiki/Aruba</Link>
+   </Country>
+   <Country>
     <Name>Australia</Name>
     <Capital>Canberra</Capital>
     <Currency>Australian dollar(AUD)</Currency>
@@ -123,7 +151,7 @@
     <Latitude>35°15'S</Latitude>
     <Longitude>149°08'E</Longitude>
     <DialCode>61</DialCode>
-    <Language>English</Language>
+    <Language>None</Language>
     <Link>http://en.wikipedia.org/wiki/Australia</Link>
    </Country>
    <Country>
@@ -265,6 +293,20 @@
     <DialCode>229</DialCode>
     <Language>French</Language>
     <Link>http://en.wikipedia.org/wiki/Benin</Link>
+   </Country>
+   <Country>
+    <Name>Bermuda</Name>
+    <Capital>Hamilton</Capital>
+    <Currency>Bermudian dollarc (BMD)</Currency>
+    <StartDate>03/10/2013</StartDate>
+    <EndDate>11/3/2013</EndDate>
+    <UTC>-04:00</UTC>
+    <Region>North America</Region>
+    <Latitude>32°18'N</Latitude>
+    <Longitude>64°47'W</Longitude>
+    <DialCode>1-441</DialCode>
+    <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Bermuda</Link>
    </Country>
    <Country>
     <Name>Bhutan</Name>
@@ -447,6 +489,20 @@
     <DialCode>238</DialCode>
     <Language>Portuguese</Language>
     <Link>http://en.wikipedia.org/wiki/Cape_Verde</Link>
+   </Country>
+   <Country>
+    <Name>Cayman Islands</Name>
+    <Capital>George Town</Capital>
+    <Currency>Cayman Islands dollar (KYD)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>-05:00</UTC>
+    <Region>North America</Region>
+    <Latitude>19°20'N</Latitude>
+    <Longitude>81°24'W</Longitude>
+    <DialCode>1-345</DialCode>
+    <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Cayman_Islands</Link>
    </Country>
    <Country>
     <Name>Central African Republic</Name>
@@ -659,6 +715,20 @@
     <Link>http://en.wikipedia.org/wiki/Dominica</Link>
    </Country>
    <Country>
+    <Name>Dominican Republic</Name>
+    <Capital>Santo Domingo</Capital>
+    <Currency>Peso (DOP)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>-04:00</UTC>
+    <Region>North America</Region>
+    <Latitude>19°00'N</Latitude>
+    <Longitude> 70°40'W</Longitude>
+    <DialCode>1-809</DialCode>
+    <Language>Spanish</Language>
+    <Link>http://en.wikipedia.org/wiki/Dominican_Republic</Link>
+   </Country>
+   <Country>
     <Name>Ecuador</Name>
     <Capital>Quito</Capital>
     <Currency>United States dollar $ (USD)</Currency>
@@ -701,6 +771,20 @@
     <Link>http://en.wikipedia.org/wiki/El_Salvador</Link>
    </Country>
    <Country>
+    <Name>England</Name>
+    <Capital>London</Capital>
+    <Currency>Pound sterling £ (GBP)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
+    <UTC>+00:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>51°36'N</Latitude>
+    <Longitude>00°05'W</Longitude>
+    <DialCode>44</DialCode>
+    <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/England</Link>
+   </Country>
+   <Country>
     <Name>Equatorial Guinea</Name>
     <Capital>Malabo</Capital>
     <Currency>Central African CFA franc(XAF)</Currency>
@@ -741,6 +825,34 @@
     <DialCode>372</DialCode>
     <Language>Estonian</Language>
     <Link>http://en.wikipedia.org/wiki/Estonia</Link>
+   </Country>
+   <Country>
+    <Name>Ethiopia</Name>
+    <Capital>Addis Ababa</Capital>
+    <Currency>Birr (ETB)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+03:00</UTC>
+    <Region>Africa</Region>
+    <Latitude>09°01'N</Latitude>
+    <Longitude>38°44'E</Longitude>
+    <DialCode>251</DialCode>
+    <Language>Amharic</Language>
+    <Link>http://en.wikipedia.org/wiki/Ethiopia</Link>
+   </Country>
+   <Country>
+    <Name>Faroe Island</Name>
+    <Capital>Thorshavn</Capital>
+    <Currency>Faroese kr�na (DKK)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+01:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>62°00'N</Latitude>
+    <Longitude>06°47'W</Longitude>
+    <DialCode>291</DialCode>
+    <Language>Faroese, Danish</Language>
+    <Link>http://en.wikipedia.org/wiki/Faroe_Islands</Link>
    </Country>
    <Country>
     <Name>Fiji</Name>
@@ -813,6 +925,20 @@
     <Link>http://en.wikipedia.org/wiki/Gabon</Link>
    </Country>
    <Country>
+    <Name>Gambia</Name>
+    <Capital>Banjul</Capital>
+    <Currency>Dalasi (GMD)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+00:00</UTC>
+    <Region>Africa</Region>
+    <Latitude>13°28'N</Latitude>
+    <Longitude>16°36'W</Longitude>
+    <DialCode>220</DialCode>
+    <Language>English</Language>
+    <Link>http://en.wikipedia.org/wiki/Gambia</Link>
+   </Country>
+   <Country>
     <Name>Georgia</Name>
     <Capital>Tbilisi</Capital>
     <Currency>Lari(GEL)</Currency>
@@ -867,6 +993,20 @@
     <DialCode>30</DialCode>
     <Language>Greek</Language>
     <Link>http://en.wikipedia.org/wiki/Greece</Link>
+   </Country>
+   <Country>
+    <Name>Gibraltar</Name>
+    <Capital>Nuuk</Capital>
+    <Currency>Danish krone (DKK)</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+00:00</UTC>
+    <Region>North America</Region>
+    <Latitude>64°10'N</Latitude>
+    <Longitude>51°44'W</Longitude>
+    <DialCode>299</DialCode>
+    <Language>Greenlandic</Language>
+    <Link>http://en.wikipedia.org/wiki/Greenland</Link>
    </Country>
    <Country>
     <Name>Grenada</Name>
@@ -997,7 +1137,7 @@
    <Country>
     <Name>India</Name>
     <Capital>New Delhi</Capital>
-    <Currency>Indian rupee (INR)</Currency>
+    <Currency>Indian rupee(INR)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+05:30</UTC>
@@ -1724,6 +1864,21 @@
     <Link>http://en.wikipedia.org/wiki/Nigeria</Link>
    </Country>
    <Country>
+    <Name>Northern Ireland</Name>
+    <Capital>Belfast</Capital>
+    <Currency>Pound sterling £ (GBP)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
+    <UTC>+00:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>54°35'N</Latitude>
+    <Longitude>05°50'W</Longitude>
+    <DialCode>44</DialCode>
+    <Language>English, Irish, Ulster Scots
+</Language>
+    <Link>http://en.wikipedia.org/wiki/Northern_Ireland</Link>
+   </Country>
+   <Country>
     <Name>Norway</Name>
     <Capital>Oslo</Capital>
     <Currency>Norwegian krone(NOK)</Currency>
@@ -1946,6 +2101,20 @@
     <DialCode>966</DialCode>
     <Language>Arabic</Language>
     <Link>http://en.wikipedia.org/wiki/Saudi_Arabia</Link>
+   </Country>
+   <Country>
+    <Name>Scotland</Name>
+    <Capital>Edinburgh</Capital>
+    <Currency>Pound sterling £ (GBP)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
+    <UTC>+00:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>55°57'N</Latitude>
+    <Longitude>03°11'W</Longitude>
+    <DialCode>44</DialCode>
+    <Language>Scottish, English</Language>
+    <Link>http://en.wikipedia.org/wiki/Scotland</Link>
    </Country>
    <Country>
     <Name>Senegal</Name>
@@ -2440,7 +2609,7 @@
    <Country>
     <Name>Uruguay</Name>
     <Capital>Montevideo</Capital>
-    <Currency>Uruguayan peso (UYU)</Currency>
+    <Currency>Uruguayan peso(UYU)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-03:00</UTC>
@@ -2482,7 +2651,7 @@
    <Country>
     <Name>Venezuela</Name>
     <Capital>Caracas</Capital>
-    <Currency>Bolivar (VEF)</Currency>
+    <Currency>Bolivar(VEF)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>-4:30</UTC>
@@ -2506,6 +2675,20 @@
     <DialCode>84</DialCode>
     <Language>Vietnamese</Language>
     <Link>http://en.wikipedia.org/wiki/Vietnam</Link>
+   </Country>
+   <Country>
+    <Name>Wales</Name>
+    <Capital>Cardiff</Capital>
+    <Currency>Pound sterling � (GBP)</Currency>
+    <StartDate>03/31/2013</StartDate>
+    <EndDate>10/27/2013</EndDate>
+    <UTC>+00:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>51°29'N</Latitude>
+    <Longitude>03°11'W</Longitude>
+    <DialCode>44</DialCode>
+    <Language>Welsh, English</Language>
+    <Link></Link>
    </Country>
    <Country>
     <Name>Yemen</Name>
@@ -2538,7 +2721,7 @@
    <Country>
     <Name>Zambia</Name>
     <Capital>Lusaka</Capital>
-    <Currency>Zambian kwacha (ZMK)</Currency>
+    <Currency>Zambian kwacha(ZMK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+02:00</UTC>

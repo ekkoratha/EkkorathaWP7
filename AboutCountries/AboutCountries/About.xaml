@@ -28,7 +28,7 @@
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <TextBlock HorizontalAlignment="Left" Margin="28,266,0,326" Name="textBlock1" Text="Version" FontWeight="Bold" FontSize="22" />
-            <TextBlock Height="30" HorizontalAlignment="Left" Margin="32,298,0,0" Name="textBlock2" Text="3.1.0" VerticalAlignment="Top" Foreground="#FF6FB6F2" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="32,298,0,0" Name="textBlock2" Text="3.2.0" VerticalAlignment="Top" Foreground="#FF6FB6F2" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="28,44,0,0" Name="textBlock3" Text="Description" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" />
             <TextBlock HorizontalAlignment="Left" Margin="28,78,0,375" Name="textBlock4" Text="With around 190 countries in the world its useful to have an application which can show the some vital details of each country. This Application shows details about country flags, capitals, currency, official language, calling code, time and location" Width="422" TextWrapping="Wrap" />
             <TextBlock Height="30" HorizontalAlignment="Left" Margin="28,354,0,0" Name="textBlock5" Text="Support/Feedback" VerticalAlignment="Top" FontWeight="Bold" FontSize="22" />

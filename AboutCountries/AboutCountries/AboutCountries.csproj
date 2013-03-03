@@ -585,6 +585,15 @@
     <Resource Include="img\Zimbabwe.png" />
     <Resource Include="icons\remove-favourites.png" />
     <Resource Include="icons\MapPin1.png" />
+    <Resource Include="img\Dominican Republic.png" />
+    <Resource Include="img\Ethiopia.png" />
+    <Resource Include="img\Faroe.png" />
+    <Resource Include="img\Gambia.png" />
+    <Resource Include="img\Greenland.png" />
+    <Resource Include="img\Northern Ireland.png" />
+    <Resource Include="img\Scotland.png" />
+    <Resource Include="img\Wales.png" />
+    <Resource Include="img\England.png" />
     <Content Include="README_FIRST.txt" />
     <Content Include="SplashScreenImage.jpg" />
     <Resource Include="world.png" />
