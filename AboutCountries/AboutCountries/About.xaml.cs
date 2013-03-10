@@ -32,5 +32,12 @@ namespace AboutCountries
 
             marketplaceReviewTask.Show();
         }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            MarketplaceSearchTask marketplaceSearchTask = new MarketplaceSearchTask();
+            marketplaceSearchTask.SearchTerms = "ekkoratha";
+            marketplaceSearchTask.Show();
+        }
     }
 }
