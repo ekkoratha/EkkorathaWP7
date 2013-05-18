@@ -599,6 +599,7 @@
     <Resource Include="img\Cayman Islands.png" />
     <Resource Include="img\Faroe Islands.png" />
     <Resource Include="img\Gibraltar.png" />
+    <Resource Include="img\Isle of Man.png" />
     <Content Include="README_FIRST.txt" />
     <Content Include="SplashScreenImage.jpg" />
     <Resource Include="world.png" />

@@ -134,12 +134,11 @@
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
     <Region>North America</Region>
-
+     <Latitude>12°31'N</Latitude>
+     <Longitude>70°02'W</Longitude>
     <DialCode>297</DialCode>
     <Language>Dutch, Papiamento</Language>
     <Link>http://en.wikipedia.org/wiki/Aruba</Link>
-     <Latitude>12°31'N</Latitude>
-     <Longitude>70°02'W</Longitude>
    </Country>
    <Country>
     <Name>Australia</Name>
@@ -996,15 +995,15 @@
     <Link>http://en.wikipedia.org/wiki/Greece</Link>
    </Country>
    <Country>
-    <Name>Gibraltar</Name>
+    <Name>Greenland</Name>
     <Capital>Nuuk</Capital>
     <Currency>Danish krone (DKK)</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
     <Region>North America</Region>
-    <Latitude>36°08'N</Latitude>
-    <Longitude>05°21'W</Longitude>
+    <Latitude>64°10'N</Latitude>
+    <Longitude>51°44'W</Longitude>
     <DialCode>299</DialCode>
     <Language>Greenlandic</Language>
     <Link>http://en.wikipedia.org/wiki/Greenland</Link>
@@ -1017,8 +1016,8 @@
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
     <Region>North America</Region>
-    <Latitude>12° 3' N</Latitude>
-    <Longitude>61° 45'W</Longitude>
+    <Latitude>12°03'N</Latitude>
+    <Longitude>61°45'W</Longitude>
     <DialCode>1-473</DialCode>
     <Language>English</Language>
     <Link>http://en.wikipedia.org/wiki/Grenada</Link>
@@ -1204,6 +1203,20 @@
     <DialCode>353</DialCode>
     <Language>Irish</Language>
     <Link>http://en.wikipedia.org/wiki/Ireland</Link>
+   </Country>
+   <Country>
+    <Name>Isle of Man</Name>
+    <Capital>Douglas</Capital>
+    <Currency>Manx pound</Currency>
+    <StartDate></StartDate>
+    <EndDate></EndDate>
+    <UTC>+00:00</UTC>
+    <Region>Europe</Region>
+    <Latitude>54°09'N</Latitude>
+    <Longitude>04°29'W</Longitude>
+    <DialCode>44</DialCode>
+    <Language>English, Manx</Language>
+    <Link>http://en.wikipedia.org/wiki/Isle_of_Man</Link>
    </Country>
    <Country>
     <Name>Israel</Name>
@@ -1716,7 +1729,7 @@
     <Currency>Moroccan dirham(MAD)</Currency>
     <StartDate>04/29/2013</StartDate>
     <EndDate>09/30/2013</EndDate>
-    <UTC>0</UTC>
+    <UTC>+00:00</UTC>
     <Region>Africa</Region>
     <Latitude>34°02'N</Latitude>
     <Longitude>6°51'W</Longitude>
@@ -2167,7 +2180,7 @@
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
     <Region>Africa</Region>
-    <Latitude>8°29'N</Latitude>
+    <Latitude>08°29'N</Latitude>
     <Longitude>13°14'W</Longitude>
     <DialCode>232</DialCode>
     <Language>English</Language>
@@ -2181,7 +2194,7 @@
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
     <Region>Asia</Region>
-    <Latitude>1°17'N </Latitude>
+    <Latitude>01°17'N </Latitude>
     <Longitude>103°50'E</Longitude>
     <DialCode>65</DialCode>
     <Language>English,Malay,Chinese</Language>
@@ -2251,8 +2264,8 @@
     <EndDate></EndDate>
     <UTC>+02:00</UTC>
     <Region>Africa</Region>
-    <Latitude>25°44'S</Latitude>
-    <Longitude>28°12'E</Longitude>
+    <Latitude>33°55'S</Latitude>
+    <Longitude>18°25'E</Longitude>
     <DialCode>27</DialCode>
     <Language> Afrikaans, English</Language>
     <Link>http://en.wikipedia.org/wiki/South_Africa</Link>
@@ -2447,8 +2460,8 @@
     <EndDate></EndDate>
     <UTC>+00:00</UTC>
     <Region>Africa</Region>
-    <Latitude>6°7'N </Latitude>
-    <Longitude>1°13'E</Longitude>
+    <Latitude>13°28'N </Latitude>
+    <Longitude>16°36'W</Longitude>
     <DialCode>220</DialCode>
     <Language>English</Language>
     <Link>http://en.wikipedia.org/wiki/The_Gambia</Link>
@@ -2489,8 +2502,8 @@
     <EndDate></EndDate>
     <UTC>-04:00</UTC>
     <Region>North America</Region>
-    <Latitude>36°50'N </Latitude>
-    <Longitude>10°9'E</Longitude>
+    <Latitude>10°40'N </Latitude>
+    <Longitude>61°31'W</Longitude>
     <DialCode>1-868</DialCode>
     <Language>English</Language>
     <Link>http://en.wikipedia.org/wiki/Trinidad_and_Tobago</Link>
