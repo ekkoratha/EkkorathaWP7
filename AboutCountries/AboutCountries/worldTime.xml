@@ -1210,7 +1210,7 @@
     <Currency>Manx pound</Currency>
     <StartDate></StartDate>
     <EndDate></EndDate>
-    <UTC>+00:00</UTC>
+    <UTC>+01:00</UTC>
     <Region>Europe</Region>
     <Latitude>54°09'N</Latitude>
     <Longitude>04°29'W</Longitude>
@@ -2096,8 +2096,8 @@
     <EndDate>10/27/2013</EndDate>
     <UTC>+01:00</UTC>
     <Region>Europe</Region>
-    <Latitude>43°55'N</Latitude>
-    <Longitude>12°30'E</Longitude>
+    <Latitude>43°56'N</Latitude>
+    <Longitude>12°26'E</Longitude>
     <DialCode>378</DialCode>
     <Language>Italian</Language>
     <Link>http://en.wikipedia.org/wiki/San_Marino</Link>
@@ -2166,8 +2166,8 @@
     <EndDate>10/27/2013</EndDate>
     <UTC>+04:00</UTC>
     <Region>Africa</Region>
-    <Latitude>08°30'N</Latitude>
-    <Longitude>13°17'W</Longitude>
+    <Latitude>04°37'S</Latitude>
+    <Longitude>55°27'E</Longitude>
     <DialCode>248</DialCode>
     <Language>French, English</Language>
     <Link>http://en.wikipedia.org/wiki/Seychelles</Link>
@@ -2404,8 +2404,8 @@
     <EndDate></EndDate>
     <UTC>+08:00</UTC>
     <Region>Asia</Region>
-    <Latitude>38°33'N </Latitude>
-    <Longitude>68°48'E</Longitude>
+    <Latitude>25°02'N </Latitude>
+    <Longitude>121°38'E</Longitude>
     <DialCode>886</DialCode>
     <Language>Mandarin, Taiwanese</Language>
     <Link>http://en.wikipedia.org/wiki/Taiwan</Link>
